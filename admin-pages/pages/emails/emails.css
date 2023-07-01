@@ -1,0 +1,100 @@
+.hb-table-data,
+.hb-table-head-data {
+	word-wrap: break-word;
+	width: 10%;
+}
+
+.hb-data-addresses,
+.hb-data-message,
+.hb-data-sending {
+	width: 23%;
+}
+
+.hb-email-lang {
+	display: none;
+}
+
+.hb-email-multiple-lang .hb-email-lang {
+	display: block;
+}
+
+.hb-data-addresses-type-name {
+	font-weight: bold;
+}
+
+.hb-data-addresses label {
+	display: table;
+	font-weight: normal;
+}
+
+.hb-add-attachment-link {
+	display: table;
+}
+
+.hb-remove-attachment-link,
+.hb-remove-attachment-link:active,
+.hb-remove-attachment-link:focus {
+	color: #a00;
+}
+
+.hb-remove-attachment-link:hover,
+.hb-data-addresses b,
+.hb-template-email-inactive-reason {
+	color: #dc3232
+}
+
+.hb-template-email-message {
+	height: 179px;
+	width: 100%;
+}
+
+.hb-table-data select {
+	width: 100%;
+}
+
+h4 {
+	margin: 26px 0 0;
+}
+
+.hb-data-sending p,
+.hb-data-sending ul {
+	margin-top: 0px;
+}
+
+.hb-template-email-manual {
+	font-weight: bold;
+}
+
+.hb-edit-schedule-wrapper input[type="text"] {
+	width: 35px;
+}
+
+.hb-edit-schedule-wrapper .button-primary {
+	margin-top: 5px;
+}
+
+.hb-data-sending .dashicons-plus {
+	margin: -5px 0 10px;
+}
+
+.hb-multiple-accom-text {
+	display: block;
+}
+
+.hb-email-logs-table .hb-table-head-data,
+.hb-email-logs-table .hb-table-data {
+	width: 22.5%;
+}
+
+.hb-email-logs-table .hb-data-resa-id {
+	width: 10%;
+}
+
+.hb-email-wp-error {
+	display: none;
+}
+
+.wrap div.notice,
+.wrap div.error {
+	margin: 15px 0 5px;
+}

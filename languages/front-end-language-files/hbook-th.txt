@@ -1,0 +1,836 @@
+msgctxt "Search"
+msgid "default_form_title"
+msgstr "ค้นหา"
+
+msgctxt "%accom_name: Price - Availability - Booking "
+msgid "accom_page_form_title"
+msgstr "%accom_name: ราคา - ห้องว่าง – สำรองห้องพัก"
+
+msgctxt "Check-in"
+msgid "check_in"
+msgstr "วันที่เช็คอิน"
+
+msgctxt "Check-out"
+msgid "check_out"
+msgstr "วันที่เช็คเอาท์"
+
+msgctxt "Adults"
+msgid "adults"
+msgstr "ผู้ใหญ่"
+
+msgctxt "Children"
+msgid "children"
+msgstr "เด็ก"
+
+msgctxt "Check-in:"
+msgid "chosen_check_in"
+msgstr "เช็คอิน:"
+
+msgctxt "Check-out:"
+msgid "chosen_check_out"
+msgstr "เช็คเอาท์:"
+
+msgctxt "Adults:"
+msgid "chosen_adults"
+msgstr "ผู้ใหญ่:"
+
+msgctxt "Children:"
+msgid "chosen_children"
+msgstr "เด็ก:"
+
+msgctxt "Search"
+msgid "search_button"
+msgstr "ค้นหา"
+
+msgctxt "Change search"
+msgid "change_search_button"
+msgstr "เปลี่ยนการค้นหา"
+
+msgctxt "Searching..."
+msgid "searching"
+msgstr "ค้นหา..."
+
+msgctxt "Please enter a check-in date."
+msgid "no_check_in_date"
+msgstr "โปรดป้อนวันที่เช็คอิน"
+
+msgctxt "Please enter a check-out date."
+msgid "no_check_out_date"
+msgstr "โปรดป้อนวันที่เช็คเอาท์"
+
+msgctxt "Please enter a check-in date and a check-out date."
+msgid "no_check_in_out_date"
+msgstr "โปรดป้อนวันที่เช็คอินและวันที่เช็คเอาท์"
+
+msgctxt "Please select the number of adults."
+msgid "no_adults"
+msgstr "โปรดเลือกจำนวนผู้ใหญ่"
+
+msgctxt "Please select the number of children."
+msgid "no_children"
+msgstr "โปรดเลือกจำนวนเด็ก"
+
+msgctxt "Please select the number of adults and the number of children."
+msgid "no_adults_children"
+msgstr "โปรดเลือกจำนวนผู้ใหญ่และจำนวนเด็ก"
+
+msgctxt "The check-in date is not valid."
+msgid "invalid_check_in_date"
+msgstr "วันที่เช็คอินไม่ถูกต้อง"
+
+msgctxt "The check-out date is not valid."
+msgid "invalid_check_out_date"
+msgstr "วันที่เช็คเอาท์ไม่ถูกต้อง"
+
+msgctxt "The check-in date and the check-out date are not valid."
+msgid "invalid_check_in_out_date"
+msgstr "วันที่เช็คอินและวันที่เช็คเอาท์ไม่ถูกต้อง"
+
+msgctxt "The check-in date can not be in the past."
+msgid "check_in_date_past"
+msgstr "วันที่เช็คอินไม่สามารถเป็นอดีตได้"
+
+msgctxt "The check-in date can not be before the %date."
+msgid "check_in_date_before_date"
+msgstr "วันที่เช็คอินไม่สามารถอยู่ก่อน %date."
+
+msgctxt "The check-out date can not be after the %date."
+msgid "check_out_date_after_date"
+msgstr "วันที่เช็คเอาท์ไม่สามารถอยู่หลัง %date."
+
+msgctxt "The check-out date must be after the check-in date."
+msgid "check_out_before_check_in"
+msgstr "วันที่เช็คเอาท์ต้องอยู่หลังวันที่เช็คอิน"
+
+msgctxt "Check-in is allowed only on specific days (%check_in_days)."
+msgid "check_in_day_not_allowed"
+msgstr "อนุญาตให้เช็คอินในวันที่กำหนดเท่านั้น  (%check_in_days)"
+
+msgctxt "Check-in is allowed only on certain days. Please change your check-in date."
+msgid "check_in_day_not_allowed_seasonal"
+msgstr "อนุญาตให้เช็คอินในบางวันเท่านั้น โปรดเปลี่ยนวันที่เช็คอินของคุณ"
+
+msgctxt "Check-out is allowed only on specific days (%check_out_days)."
+msgid "check_out_day_not_allowed"
+msgstr "อนุญาตให้เช็คเอาท์เฉพาะวันที่กำหนด (%check_out_days)."
+
+msgctxt "Check-out is allowed only on certain days. Please change your check-out date."
+msgid "check_out_day_not_allowed_seasonal"
+msgstr "อนุญาตให้เช็คเอาท์ได้ในบางวัน โปรดเปลี่ยนวันที่เช็คเอาท์"
+
+msgctxt "A %nb_nights nights minimum stay policy applies. Please modify your dates to extend your stay."
+msgid "minimum_stay"
+msgstr "จะต้องใช้นโยบายการเข้าพักขั้นต่ำ %nb_nights คืน โปรดแก้ไขวันที่ของคุณเพื่อขยายเวลาการเข้าพักของคุณ"
+
+msgctxt "A minimum stay policy applies. Please modify your dates to extend your stay."
+msgid "minimum_stay_seasonal"
+msgstr "มีนโยบายการเข้าพักขั้นต่ำ โปรดแก้ไขวันที่ของคุณเพื่อขยายเวลาการเข้าพักของคุณ"
+
+msgctxt "A %nb_nights-nights maximum stay policy applies. Please modify your dates to shorten your stay."
+msgid "maximum_stay"
+msgstr "มีนโยบายการเข้าพักสูงสุด %nb_nights คืน โปรดแก้ไขวันที่ของคุณเพื่อทำให้การเข้าพักของคุณสั้นลง"
+
+msgctxt "A maximum stay policy applies. Please modify your dates to shorten your stay."
+msgid "maximum_stay_seasonal"
+msgstr "มีนโยบายการเข้าพักสูงสุด โปรดแก้ไขวันที่ของคุณเพื่อทำให้การเข้าพักของคุณสั้นลง"
+
+msgctxt "Guests check-in on %check_in_day must check-out on a specific day (%check_out_days)."
+msgid "check_out_day_not_allowed_for_check_in_day"
+msgstr "ผู้เข้าพักที่เช็คอินที่ %check_in_day ต้องเช็คเอาท์ในวันที่กำหนด (%check_out_days)"
+
+msgctxt "With this check-in date check-out is allowed only on certain days. Please change your check-in or check-out dates."
+msgid "check_out_day_not_allowed_for_check_in_day_seasonal"
+msgstr "ด้วยการเช็คอินวันที่เช็คอินนี้จะได้รับอนุญาตในบางวันเท่านั้น โปรดเปลี่ยนวันที่เช็คอินหรือเช็คเอาท์"
+
+msgctxt "A %nb_nights-night minimum stay is required for booking starting on %check_in_day."
+msgid "minimum_stay_for_check_in_day"
+msgstr "จะต้องเข้าพักอย่างน้อย %nb_nights คืนสำหรับการจองเริ่มต้นที่ %check_in_day"
+
+msgctxt "With this check-in date a minimum stay policy applies."
+msgid "minimum_stay_for_check_in_day_seasonal"
+msgstr "ด้วยวันที่เช็คอินนี้จะใช้นโยบายการเข้าพักขั้นต่ำ"
+
+msgctxt "A %nb_nights-night maximum stay applies for booking starting on %check_in_day."
+msgid "maximum_stay_for_check_in_day"
+msgstr "การเข้าพักสูงสุด %nb_nights คืนสำหรับการจองเริ่มต้นที่ %check_in_day"
+
+msgctxt "With this check-in date a maximum stay policy applies."
+msgid "maximum_stay_for_check_in_day_seasonal"
+msgstr "ด้วยวันที่เช็คอินนี้จะใช้นโยบายการเข้าพักสูงสุด"
+
+msgctxt "Unfortunately the %accom_name can not suit %persons_nb persons."
+msgid "accom_can_not_suit_nb_people"
+msgstr "น่าเสียดายที่ %accom_name ไม่สามารถเหมาะกับ %person_nb คน"
+
+msgctxt "Unfortunately we could not find any accommodation that would suit %persons_nb persons."
+msgid "no_accom_can_suit_nb_people"
+msgstr "น่าเสียดายที่เราไม่สามารถหาที่พักใด ๆ ที่เหมาะกับ %person_nb คน"
+
+msgctxt "View all available accommodation for %persons_nb persons."
+msgid "view_accom_for_persons"
+msgstr "ดูที่พักที่มีอยู่ทั้งหมดสำหรับ %person_nb คน"
+
+msgctxt "Unfortunately the %accom_name can not suit one person only."
+msgid "accom_can_not_suit_one_person"
+msgstr "น่าเสียดายที่ %accom_name ไม่เหมาะกับคนเดียวเท่านั้น"
+
+msgctxt "Unfortunately we could not find any accommodation that would suit one person only."
+msgid "no_accom_can_suit_one_person"
+msgstr "น่าเสียดายที่เราไม่สามารถหาที่พักที่เหมาะกับคนเดียวได้"
+
+msgctxt "View all available accommodation for one person."
+msgid "view_accom_for_one_person"
+msgstr "ดูที่พักที่มีอยู่ทั้งหมดสำหรับหนึ่งคน"
+
+msgctxt "Unfortunately we could not find any accommodation for the dates you entered."
+msgid "no_accom_at_chosen_dates"
+msgstr "น่าเสียดายที่เราไม่พบที่พักสำหรับวันที่คุณป้อน"
+
+msgctxt "The %accom_name is not available at the chosen dates."
+msgid "accom_not_available_at_chosen_dates"
+msgstr "%accom_name ไม่สามารถใช้ได้ในวันที่เลือก"
+
+msgctxt "View all available accommodation at the chosen dates."
+msgid "view_accom_at_chosen_date"
+msgstr "ดูที่พักที่มีอยู่ทั้งหมดตามวันที่เลือก"
+
+msgctxt "We have found 1 type of accommodation that suit your needs."
+msgid "one_type_of_accommodation_found"
+msgstr "เราพบที่พัก 1 ประเภทที่เหมาะกับความต้องการของคุณ"
+
+msgctxt "We have found %nb_types types of accommodation that suit your needs."
+msgid "several_types_of_accommodation_found"
+msgstr "เราพบที่พักประเภท %nb_types ที่เหมาะกับความต้องการของคุณ"
+
+msgctxt "Select your accommodation"
+msgid "select_accom_title"
+msgstr "เลือกที่พักของคุณ"
+
+msgctxt "The %accom_name is available at the chosen dates"
+msgid "accom_available_at_chosen_dates"
+msgstr "%accom_name มีให้ในวันที่ที่เลือก"
+
+msgctxt "price for 1 night"
+msgid "price_for_1_night"
+msgstr "ราคาสำหรับ 1 คืน"
+
+msgctxt "price for %nb_nights nights"
+msgid "price_for_several_nights"
+msgstr "ราคาสำหรับ %nb_nights คืน"
+
+msgctxt "View price breakdown"
+msgid "view_price_breakdown"
+msgstr "ดูรายละเอียดราคา"
+
+msgctxt "Hide price breakdown"
+msgid "hide_price_breakdown"
+msgstr "ซ่อนรายละเอียดราคา"
+
+msgctxt "nights"
+msgid "price_breakdown_nights_several"
+msgstr "คืน"
+
+msgctxt "night"
+msgid "price_breakdown_night_one"
+msgstr "คืน"
+
+msgctxt "x %nb_nights-night"
+msgid "price_breakdown_multiple_nights"
+msgstr "x %nb_nights คืน"
+
+msgctxt "Accommodation price:"
+msgid "price_breakdown_accom_price"
+msgstr "ราคาที่พัก:"
+
+msgctxt "Extra adults (%nb_adults):"
+msgid "price_breakdown_extra_adults_several"
+msgstr "ผู้ใหญ่เพิ่มเติม (%nb_adults):"
+
+msgctxt "Extra adult:"
+msgid "price_breakdown_extra_adult_one"
+msgstr "ผู้ใหญ่เสริม:"
+
+msgctxt "Adults (%nb_adults):"
+msgid "price_breakdown_adults_several"
+msgstr "ผู้ใหญ่ (%nb_adults):"
+
+msgctxt "Adult:"
+msgid "price_breakdown_adult_one"
+msgstr "ผู้ใหญ่:"
+
+msgctxt "Extra children (%nb_children):"
+msgid "price_breakdown_extra_children_several"
+msgstr "เด็กเพิ่มเติม (%nb_children):"
+
+msgctxt "Extra child:"
+msgid "price_breakdown_extra_child_one"
+msgstr "เด็กเสริม:"
+
+msgctxt "Children (%nb_children):"
+msgid "price_breakdown_children_several"
+msgstr "เด็ก (%nb_children):"
+
+msgctxt "Child:"
+msgid "price_breakdown_child_one"
+msgstr "เด็ก:"
+
+msgctxt "From %from_date to %to_date:"
+msgid "price_breakdown_dates"
+msgstr "จาก %from_date ถึง %to_date:"
+
+msgctxt "Discount:"
+msgid "price_breakdown_discount"
+msgstr "ส่วนลด:"
+
+msgctxt "adults"
+msgid "fee_details_adults_several"
+msgstr "ผู้ใหญ่"
+
+msgctxt "adult"
+msgid "fee_details_adult_one"
+msgstr "ผู้ใหญ่"
+
+msgctxt "children"
+msgid "fee_details_children_several"
+msgstr "เด็ก"
+
+msgctxt "child"
+msgid "fee_details_child_one"
+msgstr "เด็ก"
+
+msgctxt "People"
+msgid "fee_details_persons"
+msgstr "คน"
+
+msgctxt "Select this accommodation"
+msgid "select_accom_button"
+msgstr "เลือกที่พักนี้"
+
+msgctxt "Book now!"
+msgid "accom_book_now_button"
+msgstr "จองตอนนี้!"
+
+msgctxt "View this accommodation"
+msgid "view_accom_button"
+msgstr "ดูที่พักนี้"
+
+msgctxt "You have selected the %accom_name."
+msgid "selected_accom"
+msgstr "คุณได้เลือก %accom_name."
+
+msgctxt "Fees:"
+msgid "price_breakdown_fees"
+msgstr "ค่าธรรมเนียม:"
+
+msgctxt "Select your accommodation number"
+msgid "select_accom_num_title"
+msgstr "เลือกหมายเลขที่พักของคุณ"
+
+msgctxt "%accom_name number %accom_num"
+msgid "select_accom_num_label"
+msgstr "%accom_name เบอร์ %accom_num"
+
+msgctxt ""
+msgid "select_accom_num_text"
+msgstr ""
+
+msgctxt "Choose your options"
+msgid "select_options_title"
+msgstr "เลือกตัวเลือกของคุณ"
+
+msgctxt "Extra services:"
+msgid "chosen_options"
+msgstr "บริการเสริม:"
+
+msgctxt "(%price%each)"
+msgid "price_option"
+msgstr "(%price%each)"
+
+msgctxt "(free)"
+msgid "free_option"
+msgstr "(ฟรี)"
+
+msgctxt "each"
+msgid "each_option"
+msgstr "แต่ละ"
+
+msgctxt " - Maximum: %max_value"
+msgid "max_option"
+msgstr "- สูงสุด: %max_value"
+
+msgctxt "Total options price:"
+msgid "total_options_price"
+msgstr "ราคาตัวเลือกทั้งหมด:"
+
+msgctxt "Enter your details"
+msgid "details_form_title"
+msgstr "ใส่รายละเอียดของคุณ"
+
+msgctxt "First name"
+msgid "first_name"
+msgstr "ชื่อ"
+
+msgctxt "Last name"
+msgid "last_name"
+msgstr "นามสกุล"
+
+msgctxt "Email"
+msgid "contact_email"
+msgstr "อีเมล์"
+
+msgctxt "Phone"
+msgid "phone"
+msgstr "โทรศัพท์"
+
+msgctxt "Message"
+msgid "contact_message"
+msgstr "ข้อความ"
+
+msgctxt "Email"
+msgid "email"
+msgstr "อีเมล์"
+
+msgctxt "Address line 1"
+msgid "address_1"
+msgstr "ที่อยู่บรรทัดที่ 1"
+
+msgctxt "Address line 2"
+msgid "address_2"
+msgstr "ที่อยู่บรรทัดที่ 2"
+
+msgctxt "Zip code"
+msgid "zip_code"
+msgstr "รหัสไปรษณีย์"
+
+msgctxt "Terms and conditions"
+msgid "terms_and_cond_title"
+msgstr "ข้อกำหนดและเงื่อนไข"
+
+msgctxt "I have read and I accept the terms and conditions for this booking."
+msgid "terms_and_cond_text"
+msgstr "ฉันได้อ่านและยอมรับข้อกำหนดและเงื่อนไขสำหรับการจองนี้"
+
+msgctxt "Please confirm you have read and you accept the terms and conditions by checking the box."
+msgid "terms_and_cond_error"
+msgstr "โปรดยืนยันว่าคุณได้อ่านและคุณยอมรับข้อกำหนดและเงื่อนไขโดยทำเครื่องหมายที่ช่อง"
+
+msgctxt "I have read and I accept the privacy policy and I give my consent for the information above to be collected."
+msgid "privacy_policy_text"
+msgstr "ฉันได้อ่านและฉันยอมรับนโยบายความเป็นส่วนตัวและฉันให้ความยินยอมสำหรับข้อมูลข้างต้นที่จะรวบรวม"
+
+msgctxt "Please confirm you have read and you accept the privacy policy and you give your consent for the information above to be collected by checking the box."
+msgid "privacy_policy_error"
+msgstr "โปรดยืนยันว่าคุณได้อ่านแล้วและคุณยอมรับนโยบายความเป็นส่วนตัวและคุณยินยอมให้มีการรวบรวมข้อมูลข้างต้นโดยทำเครื่องหมายที่ช่อง"
+
+msgctxt "Please, check the details of your reservation before clicking "Book now""
+msgid "txt_before_book_now_button"
+msgstr "กรุณาตรวจสอบรายละเอียดการจองก่อนคลิก "จองตอนนี้""
+
+msgctxt "Book now!"
+msgid "book_now_button"
+msgstr "จองตอนนี้!"
+
+msgctxt "Unfortunately the accommodation you have selected is no longer available. Please select another accommodation or start searching again."
+msgid "accom_no_longer_available"
+msgstr "น่าเสียดายที่ที่พักที่คุณเลือกไม่มีให้บริการแล้ว โปรดเลือกที่พักอื่นหรือเริ่มค้นหาอีกครั้ง"
+
+msgctxt "The %accom_name number %accom_num is no longer available. Please select another accommodation number."
+msgid "accom_num_no_longer_available"
+msgstr "%accom_name หมายเลข %accom_num ไม่สามารถใช้งานได้อีกต่อไป โปรดเลือกหมายเลขที่พักอื่น"
+
+msgctxt "Processing..."
+msgid "processing"
+msgstr "กำลังประมวลผล ..."
+
+msgctxt "Coupon"
+msgid "coupons_section_title"
+msgstr "คูปอง"
+
+msgctxt "If you have a coupon code enter it in the field below and click on apply."
+msgid "coupons_text"
+msgstr "หากคุณมีรหัสคูปองใส่ไว้ในฟิลด์ด้านล่างและคลิกที่ใช้"
+
+msgctxt "Apply"
+msgid "coupons_button"
+msgstr "ยืนยัน"
+
+msgctxt "Your coupon code is valid! We have applied a %amount discount!"
+msgid "valid_coupon"
+msgstr "รหัสคูปองของคุณถูกต้อง! เราได้ใช้ส่วนลดจำนวน %amount"
+
+msgctxt "This coupon code is not valid."
+msgid "invalid_coupon"
+msgstr "รหัสคูปองนี้ไม่ถูกต้อง"
+
+msgctxt "This coupon code is no longer valid."
+msgid "coupon_no_longer_valid"
+msgstr "รหัสคูปองนี้ไม่สามารธใช้งานได้"
+
+msgctxt "Please enter a coupon code."
+msgid "no_coupon"
+msgstr "กรุณาใส่รหัสคูปอง"
+
+msgctxt "Reservation summary"
+msgid "summary_title"
+msgstr "สรุปการจอง"
+
+msgctxt "Number of nights:"
+msgid "number_of_nights"
+msgstr "จำนวนคืน:"
+
+msgctxt "Change"
+msgid "summary_change"
+msgstr "เปลี่ยนแปลง"
+
+msgctxt "Accommodation:"
+msgid "summary_accommodation"
+msgstr "ที่พัก:"
+
+msgctxt "Accommodation number:"
+msgid "summary_accommodation_number"
+msgstr "หมายเลขที่พัก:"
+
+msgctxt "Accommodation price:"
+msgid "summary_accom_price"
+msgstr "ราคาที่พัก:"
+
+msgctxt "Options price:"
+msgid "summary_options_price"
+msgstr "ราคาตัวเลือก:"
+
+msgctxt "Price includes:"
+msgid "summary_included_fees"
+msgstr "ราคารวม:"
+
+msgctxt "Coupon discount amount:"
+msgid "summary_coupon_amount"
+msgstr "จำนวนส่วนลดคูปอง:"
+
+msgctxt "Discount amount:"
+msgid "summary_discount_amount"
+msgstr "จำนวนส่วนลด:"
+
+msgctxt "Total price:"
+msgid "summary_price"
+msgstr "ราคารวม:"
+
+msgctxt "Deposit amount:"
+msgid "summary_deposit"
+msgstr "จำนวนค่ามัดจำ:"
+
+msgctxt "Security bond amount:"
+msgid "summary_security_bond"
+msgstr "จำนวนพันธบัตรการรักษาความปลอดภัย:"
+
+msgctxt "This will be refunded after your stay minus possible damage costs."
+msgid "summary_security_bond_explanation"
+msgstr "จะได้รับเงินคืนหลังจากการเข้าพักของคุณลบด้วยค่าเสียหายที่อาจเกิดขึ้น"
+
+msgctxt "Thanks for your reservation! We have just sent you a confirmation email at %customer_email with the following details:"
+msgid "thanks_message_1"
+msgstr "ขอบคุณสำหรับการจอง! เราเพิ่งส่งอีเมลยืนยันถึงคุณที่ %customer_email พร้อมรายละเอียดดังต่อไปนี้:"
+
+msgctxt "We are looking forward to welcoming you. See you soon!"
+msgid "thanks_message_2"
+msgstr "เรารอคอยที่จะได้ต้อนรับคุณ แล้วพบกันเร็ว ๆ นี้!"
+
+msgctxt "Thank you for your reservation. Your payment has been successful."
+msgid "thanks_message_payment_done_1"
+msgstr "ขอบคุณสำหรับการจอง การชำระเงินของคุณเรียบแล้ว"
+
+msgctxt "We are looking forward to welcoming you!"
+msgid "thanks_message_payment_done_2"
+msgstr "ยินดีที่ได้ต้อนรับ!"
+
+msgctxt "Payment"
+msgid "payment_section_title"
+msgstr "การชำระเงิน"
+
+msgctxt "Select your payment type:"
+msgid "payment_type"
+msgstr "เลือกประเภทการชำระเงินของคุณ:"
+
+msgctxt "On arrival or offline payment"
+msgid "payment_type_offline"
+msgstr "ชำระเงินเมื่อมาถึงหรือแบบออฟไลน์"
+
+msgctxt "Leave credit card details (the card will not be charged now)"
+msgid "payment_type_store_credit_card"
+msgstr "ขอรายละเอียดบัตรเครดิต (บัตรจะไม่ถูกหักเก็บเงินตอนนี้)"
+
+msgctxt "Pay deposit now"
+msgid "payment_type_deposit"
+msgstr "จ่ายค่ามัดจำตอนนี้"
+
+msgctxt "Pay total price now"
+msgid "payment_type_full"
+msgstr "ชำระเงินทั้งหมดตอนนี้"
+
+msgctxt "A deposit of one night is required after booking. You will receive the terms of payment by email within 24 hours. The total amount is %full_amount."
+msgid "payment_type_explanation_offline"
+msgstr "การชำระเงินของการจองของคุณจะทำในภายหลัง จำนวนเงินทั้งหมดคือ %full_amount"
+
+msgctxt "We ask for your credit card number but no charge will be made now."
+msgid "payment_type_explanation_store_credit_card"
+msgstr "เราขอหมายเลขบัตรเครดิตของคุณ แต่จะไม่หักเงินตอนนี้"
+
+msgctxt "We will charge you %deposit_amount."
+msgid "payment_type_explanation_deposit"
+msgstr "เราจะเรียกเก็บเงิน %deposit_amount"
+
+msgctxt "We will charge you %full_amount"
+msgid "payment_type_explanation_full"
+msgstr "เราจะเรียกเก็บเงิน %full_amount"
+
+msgctxt "Select your payment method:"
+msgid "payment_method"
+msgstr "เลือกวิธีการชำระเงินของคุณ:"
+
+msgctxt "PayPal"
+msgid "paypal_payment_method_label"
+msgstr "PayPal"
+
+msgctxt "Click on Book Now to confirm your reservation. You will be redirected to PayPal to complete your payment."
+msgid "paypal_text_before_form"
+msgstr "คลิกที่จองตอนนี้เพื่อยืนยันการจองของคุณ คุณจะถูกนำไปที่ PayPal เพื่อชำระเงินให้เสร็จ"
+
+msgctxt "Secured payments by"
+msgid "paypal_bottom_text_line_1"
+msgstr "การชำระเงินที่ปลอดภัยโดย"
+
+msgctxt "You can pay with your credit card"
+msgid "paypal_bottom_text_line_2"
+msgstr "คุณสามารถชำระเงินด้วยบัตรเครดิตของคุณ"
+
+msgctxt "%accom_name%deposit_txt - %nights_txt (from %check_in_date to %check_out_date) - %adults_txt%children_txt"
+msgid "external_payment_txt_desc"
+msgstr "%accom_name %deposit_txt -%nights_txt (จาก %check_in_date ถึง %check_out_date) %adults_txt%children_txt"
+
+msgctxt " (deposit)"
+msgid "external_payment_txt_deposit"
+msgstr "(มัดจำ)"
+
+msgctxt "1 night"
+msgid "external_payment_txt_one_night"
+msgstr "1 คืน"
+
+msgctxt "%nb_nights nights"
+msgid "external_payment_txt_several_nights"
+msgstr "%nb_nights คืน"
+
+msgctxt "1 adult"
+msgid "external_payment_txt_one_adult"
+msgstr "ผู้ใหญ่ 1 คน"
+
+msgctxt "%nb_adults adults"
+msgid "external_payment_txt_several_adults"
+msgstr "%nb_adults ผู้ใหญ่"
+
+msgctxt " - 1 child"
+msgid "external_payment_txt_one_child"
+msgstr "- เด็ก 1 คน"
+
+msgctxt " - %nb_children children"
+msgid "external_payment_txt_several_children"
+msgstr "- %nb_children เด็ก"
+
+msgctxt "Credit or debit card"
+msgid "stripe_payment_method_label"
+msgstr "บัตรเครดิตหรือบัตรเดบิต"
+
+msgctxt "Please indicate your credit card information"
+msgid "stripe_text_before_form"
+msgstr "โปรดระบุข้อมูลบัตรเครดิตของคุณ"
+
+msgctxt "Could not process the payment (%error_msg)."
+msgid "stripe_processing_error"
+msgstr "ไม่สามารถประมวลผลการชำระเงิน (%error_msg)"
+
+msgctxt "Safe and secure payments SSL encrypted"
+msgid "stripe_text_bottom_form"
+msgstr "การชำระเงินที่ปลอดภัยดว้ยระบบ SSL"
+
+msgctxt "Required field."
+msgid "required_field"
+msgstr "ช่องที่ต้องกรอก"
+
+msgctxt "Invalid email."
+msgid "invalid_email"
+msgstr "อีเมลไม่ถูกต้อง"
+
+msgctxt "This field can only contain numbers."
+msgid "invalid_number"
+msgstr "ฟิลด์นี้มีได้เฉพาะตัวเลข"
+
+msgctxt "There was a connection error. Please try again."
+msgid "connection_error"
+msgstr "เกิดข้อผิดพลาดในการเชื่อมต่อ กรุณาลองอีกครั้ง."
+
+msgctxt "Your session has timed out. Please start a new booking request."
+msgid "timeout_error"
+msgstr "หมดเวลาการใช้งาน. กรุณาเริ่มคำขอจองใหม่"
+
+msgctxt "Error: season is not defined for %night."
+msgid "error_season_not_defined"
+msgstr "ข้อผิดพลาด: ไม่ได้กำหนดฤดูกาลสำหรับ %night"
+
+msgctxt "Error: please add a rate for accommodation named %accom_name and season named %season_name."
+msgid "error_rate_not_defined"
+msgstr "ข้อผิดพลาด: โปรดเพิ่มอัตราสำหรับที่พักชื่อ %accom_name และฤดูกาลชื่อ %season_name"
+
+msgctxt "Not available"
+msgid "legend_occupied"
+msgstr "ไม่ว่าง"
+
+msgctxt "Past"
+msgid "legend_past"
+msgstr "ผ่านแลว"
+
+msgctxt "Closed"
+msgid "legend_closed"
+msgstr "ปิด"
+
+msgctxt "Available"
+msgid "legend_available"
+msgstr "ว่าง"
+
+msgctxt "Before check-in day"
+msgid "legend_before_check_in"
+msgstr "ก่อนวันเช็คอิน"
+
+msgctxt "Not available for check-in"
+msgid "legend_no_check_in"
+msgstr "ไม่ว่างสำหรับเช็คอิน"
+
+msgctxt "Not available for check-out"
+msgid "legend_no_check_out"
+msgstr "ไม่ว่างสำหรับเช็คเอาท์"
+
+msgctxt "Available for check-in only"
+msgid "legend_check_in_only"
+msgstr "ว่างสำหรับเช็คอินเท่านั้น"
+
+msgctxt "Available for check-out only"
+msgid "legend_check_out_only"
+msgstr "ว่างสำหรับเช็คเอาท์เท่านั้น"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night minimum-stay requirement)"
+msgid "legend_no_check_out_min_stay"
+msgstr "ไม่ว่างสำหรับเช็คเอาท์ (due to the %nb_nights-night minimum-stay requirement)"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night maximum-stay requirement)"
+msgid "legend_no_check_out_max_stay"
+msgstr "ไม่ว่างสำหรับเช็คเอาท์ (due to the %nb_nights-night maximum-stay requirement)"
+
+msgctxt "Chosen check-in day"
+msgid "legend_check_in"
+msgstr "วันเช็คอินที่ได้เลือก"
+
+msgctxt "Chosen check-out day"
+msgid "legend_check_out"
+msgstr "วันเช็คเอาท์ที่ได้เลือก"
+
+msgctxt "Select a check-in date."
+msgid "legend_select_check_in"
+msgstr "เลือกวันที่เช็คอิน"
+
+msgctxt "Select a check-out date."
+msgid "legend_select_check_out"
+msgstr "เลือกวันที่เช็คเอาท์"
+
+msgctxt "Season"
+msgid "table_rates_season"
+msgstr "ฤดู"
+
+msgctxt "From"
+msgid "table_rates_from"
+msgstr "จาก"
+
+msgctxt "To"
+msgid "table_rates_to"
+msgstr "ถึง"
+
+msgctxt "Nights"
+msgid "table_rates_nights"
+msgstr "คืน"
+
+msgctxt "Price"
+msgid "table_rates_price"
+msgstr "ราคา"
+
+msgctxt "per night"
+msgid "table_rates_per_night"
+msgstr "ต่อคืน"
+
+msgctxt "all nights"
+msgid "table_rates_all_nights"
+msgstr "ทุกคืน"
+
+msgctxt "for a %nb_nights-night stay"
+msgid "table_rates_for_night_stay"
+msgstr "สำหรับการเข้าพัก %nb_nights คืน"
+
+msgctxt "Description"
+msgid "table_invoice_head_description"
+msgstr "ลักษณะ"
+
+msgctxt "Amount"
+msgid "table_invoice_head_amount"
+msgstr "จำนวน"
+
+msgctxt "Accommodation"
+msgid "table_invoice_accom_title"
+msgstr "ที่พัก"
+
+msgctxt "Discount"
+msgid "table_invoice_discount"
+msgstr "ส่วนลด"
+
+msgctxt "Surcharge"
+msgid "table_invoice_surcharge"
+msgstr "ค่าธรรมเนียมเพิ่ม"
+
+msgctxt "Accommodation subtotal"
+msgid "table_invoice_accom_subtotal"
+msgstr "รายย่อยของที่พัก"
+
+msgctxt "Accommodation total"
+msgid "table_invoice_accom_total"
+msgstr "ค่าที่พักรวม"
+
+msgctxt "Extra services"
+msgid "table_invoice_extras_title"
+msgstr "บริการเสริม"
+
+msgctxt "Extra services subtotal"
+msgid "table_invoice_extras_subtotal"
+msgstr "บริการเสริมผลรายย่อย"
+
+msgctxt "Extra services total"
+msgid "table_invoice_extras_total"
+msgstr "บริการเสริมทั้งหมด"
+
+msgctxt "Coupon"
+msgid "table_invoice_coupon"
+msgstr "คูปอง"
+
+msgctxt "Subtotal"
+msgid "table_invoice_subtotal"
+msgstr "รายย่อย"
+
+msgctxt "Total"
+msgid "table_invoice_total"
+msgstr "ทั้งหมด"
+
+msgctxt "Including"
+msgid "table_invoice_included_fee"
+msgstr "รวมไปถึง"
+
+msgctxt "price starting at %price"
+msgid "accom_starting_price"
+msgstr "ราคาเริ่มต้นที่ %price"
+
+msgctxt "per night"
+msgid "accom_starting_price_duration_unit"
+msgstr "ต่อคืน"
+

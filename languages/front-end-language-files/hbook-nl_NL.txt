@@ -1,0 +1,836 @@
+msgctxt "Search"
+msgid "default_form_title"
+msgstr "Kijk wat er nog beschikbaar is"
+
+msgctxt "Check price and availability for the %accom_name"
+msgid "accom_page_form_title"
+msgstr "Bekijk de  prijs en de beschikbaarheid voor %accom_name"
+
+msgctxt "Check-in"
+msgid "check_in"
+msgstr "Aankomst datum"
+
+msgctxt "Check-out"
+msgid "check_out"
+msgstr "Vertrek datum"
+
+msgctxt "Adults"
+msgid "adults"
+msgstr "Aantal personen"
+
+msgctxt "Children"
+msgid "children"
+msgstr "Kinderen"
+
+msgctxt "Check-in:"
+msgid "chosen_check_in"
+msgstr "Aankomst datum:"
+
+msgctxt "Check-out:"
+msgid "chosen_check_out"
+msgstr "Vertrek datum:"
+
+msgctxt "Adults:"
+msgid "chosen_adults"
+msgstr "Volwassenen:"
+
+msgctxt "Children:"
+msgid "chosen_children"
+msgstr "Kinderen:"
+
+msgctxt "Search"
+msgid "search_button"
+msgstr "Zoek"
+
+msgctxt "Change search"
+msgid "change_search_button"
+msgstr "Sluit zoekresultaat"
+
+msgctxt "Searching..."
+msgid "searching"
+msgstr "Zoeken ..."
+
+msgctxt "Please enter a check-in date."
+msgid "no_check_in_date"
+msgstr "Voer a.u.b. een aankomstdatum in."
+
+msgctxt "Please enter a check-out date."
+msgid "no_check_out_date"
+msgstr "Voer a.u.b. een vertrekdatum in."
+
+msgctxt "Please enter a check-in date and a check-out date."
+msgid "no_check_in_out_date"
+msgstr "Voer a.u.b. een aankomst- en vertrekdatum in."
+
+msgctxt "Please select the number of adults."
+msgid "no_adults"
+msgstr "Kies het aantal volwassenen."
+
+msgctxt "Please select the number of children."
+msgid "no_children"
+msgstr "Kies het aantal kinderen."
+
+msgctxt "Please select the number of adults and the number of children."
+msgid "no_adults_children"
+msgstr "Kies het aantal volwassenen en kinderen"
+
+msgctxt "The check-in date is not valid."
+msgid "invalid_check_in_date"
+msgstr "De aankomstdatum is niet mogelijk"
+
+msgctxt "The check-out date is not valid."
+msgid "invalid_check_out_date"
+msgstr "De vertrekdatum is niet mogelijk"
+
+msgctxt "The check-in date and the check-out date are not valid."
+msgid "invalid_check_in_out_date"
+msgstr "De aankomst- en vertrekdatum zijn niet mogelijk."
+
+msgctxt "The check-in date can not be in the past."
+msgid "check_in_date_past"
+msgstr "De aankomstdatum kan niet in het verleden liggen."
+
+msgctxt "The check-in date can not be before the %date."
+msgid "check_in_date_before_date"
+msgstr "De aankomstdag kan niet voor %date zijn."
+
+msgctxt "The check-out date can not be after the %date."
+msgid "check_out_date_after_date"
+msgstr "De vertrekdag kan niet na %date zijn."
+
+msgctxt "The check-out date must be after the check-in date."
+msgid "check_out_before_check_in"
+msgstr "De vertrekdag moet later zijn dan de aankomstdag"
+
+msgctxt "Check-in is allowed only on specific days (%check_in_days)."
+msgid "check_in_day_not_allowed"
+msgstr "Aankomst is slechts op bepaalde dagen mogelijk (%check_in_days)."
+
+msgctxt "Check-in is allowed only on certain days. Please change your check-in date."
+msgid "check_in_day_not_allowed_seasonal"
+msgstr "Aankomst is slechts op bepaalde dagen mogelijk. Pas uw aankomstdag aan."
+
+msgctxt "Check-out is allowed only on specific days (%check_out_days)."
+msgid "check_out_day_not_allowed"
+msgstr "Vertrek is slechts op bepaalde dagen mogelijk (%check_out_days)."
+
+msgctxt "Check-out is allowed only on certain days. Please change your check-out date."
+msgid "check_out_day_not_allowed_seasonal"
+msgstr "Vertrek is slechts op bepaalde dagen mogelijk. Pas uw vertrekdag aan."
+
+msgctxt "A %nb_nights-nights minimum stay policy applies. Please modify your dates."
+msgid "minimum_stay"
+msgstr "Er is een minimumverblijf van minimaal  %nb_nights-nights van toepassing. Pas aub de data aan."
+
+msgctxt "A minimum stay policy applies. Please modify your dates to extend your stay."
+msgid "minimum_stay_seasonal"
+msgstr "Er is een minimumverblijf van toepassing. Pas aub de data aan om uw verblijf te verlengen."
+
+msgctxt "A %nb_nights-nights maximum stay policy applies. Please modify your dates."
+msgid "maximum_stay"
+msgstr "Er is een maximumverblijf van %nb_nights-nights nachten van toepassing. Pas aub de data aan."
+
+msgctxt "A maximum stay policy applies. Please modify your dates to shorten your stay."
+msgid "maximum_stay_seasonal"
+msgstr "Er is een maximumverblijf van toepassing. Pas aub de data aan om uw verblijf te verkorten."
+
+msgctxt "Guests check-in on %check_in_day must check-out on a specific day (%check_out_days)."
+msgid "check_out_day_not_allowed_for_check_in_day"
+msgstr "Gasten die op %check_in_day aankomen moeten vertrekken op een specifieke dag (%check_out_days)."
+
+msgctxt "With this check-in date check-out is allowed only on certain days. Please change your check-in or check-out dates."
+msgid "check_out_day_not_allowed_for_check_in_day_seasonal"
+msgstr "Met deze aankomst datum is het vertrek maar op bepaalde dagen mogelijk. Wijzig aub uw check-in of check-out dagen."
+
+msgctxt "A %nb_nights-night minimum stay is required for booking starting on %check_in_day."
+msgid "minimum_stay_for_check_in_day"
+msgstr "Een verblijf van minimum %nb_nights-night is vereist voor boekingen die starten op %check_in_day."
+
+msgctxt "With this check-in date a minimum stay policy applies."
+msgid "minimum_stay_for_check_in_day_seasonal"
+msgstr "Voor deze aankomstdag geldt er een minimum verblijfsduur."
+
+msgctxt "A %nb_nights-night maximum stay applies for booking starting on %check_in_day."
+msgid "maximum_stay_for_check_in_day"
+msgstr "Er is een maximum verblijf van %nb_nights-night nachten voor boekingen beginnend op %check_in_day."
+
+msgctxt "With this check-in date a maximum stay policy applies."
+msgid "maximum_stay_for_check_in_day_seasonal"
+msgstr "Voor deze aankomstdag geldt er een maximum verblijfsduur."
+
+msgctxt "Unfortunately the %accom_name can not suit %persons_nb persons."
+msgid "accom_can_not_suit_nb_people"
+msgstr "Jammergenoeg is %accom_name niet geschikt voor %persons_nb personen"
+
+msgctxt "Unfortunately we could not find any accommodation that would suit %persons_nb persons."
+msgid "no_accom_can_suit_nb_people"
+msgstr "Jammer genoeg konden we geen accommodatie vinden die geschikt is voor %persons_nb personen"
+
+msgctxt "View all available accommodation for %persons_nb persons."
+msgid "view_accom_for_persons"
+msgstr "Toon alle beschikbare accommodaties voor %persons_nb personen."
+
+msgctxt "Unfortunately the %accom_name can not suit one person only."
+msgid "accom_can_not_suit_one_person"
+msgstr "Helaas kun je %accom_name niet voor één persoon boeken"
+
+msgctxt "Unfortunately we could not find any accommodation that would suit one person only."
+msgid "no_accom_can_suit_one_person"
+msgstr "Helaas hebben we geen accomodatie voor één persoon beschikbaar"
+
+msgctxt "View all available accommodation for one person."
+msgid "view_accom_for_one_person"
+msgstr "Bekijk alle accomodaties voor één persoon"
+
+msgctxt "Unfortunately we could not find any accommodation for the dates you entered."
+msgid "no_accom_at_chosen_dates"
+msgstr "Jammer genoeg hebben we geen accomodatie beschikbaar voor de gekozen periode."
+
+msgctxt "The %accom_name is not available at the chosen dates."
+msgid "accom_not_available_at_chosen_dates"
+msgstr "%accom_name is niet beschikbaar voor de gekozen periode"
+
+msgctxt "View all available accommodation at the chosen dates."
+msgid "view_accom_at_chosen_date"
+msgstr "Bekijk alle beschikbare accomodaties voor de gekozen periode"
+
+msgctxt "We have found 1 type of accommodation that suit your needs."
+msgid "one_type_of_accommodation_found"
+msgstr "We hebben 1 accomodatie die aan je vraag voldoet."
+
+msgctxt "We have found %nb_types types of accommodation that suit your needs."
+msgid "several_types_of_accommodation_found"
+msgstr "We hebben %nb_types accomodaties die aan je vraag voldoen."
+
+msgctxt "Select your accommodation"
+msgid "select_accom_title"
+msgstr "Kies je accomodatie"
+
+msgctxt "The %accom_name is available at the chosen dates."
+msgid "accom_available_at_chosen_dates"
+msgstr "%accom_name is beschikbaar op de door jou gekozen data"
+
+msgctxt "price for 1 night"
+msgid "price_for_1_night"
+msgstr "Prijs voor 1 nacht"
+
+msgctxt "price for %nb_nights nights"
+msgid "price_for_several_nights"
+msgstr "Prijs voor %nb_nights nachten"
+
+msgctxt "View price breakdown"
+msgid "view_price_breakdown"
+msgstr "Toon de prijs in detail"
+
+msgctxt "Hide price breakdown"
+msgid "hide_price_breakdown"
+msgstr "Verberg prijs details"
+
+msgctxt "nights"
+msgid "price_breakdown_nights_several"
+msgstr "nachten"
+
+msgctxt "night"
+msgid "price_breakdown_night_one"
+msgstr "nacht"
+
+msgctxt "x %nb_nights-night"
+msgid "price_breakdown_multiple_nights"
+msgstr "x %nb_nights-nachten"
+
+msgctxt "Accommodation price:"
+msgid "price_breakdown_accom_price"
+msgstr "Prijs van de accomodatie:"
+
+msgctxt "Extra adults (%nb_adults):"
+msgid "price_breakdown_extra_adults_several"
+msgstr "Extra volwassenen (%nb_adults):"
+
+msgctxt "Extra adult:"
+msgid "price_breakdown_extra_adult_one"
+msgstr "Extra volwassene:"
+
+msgctxt "Adults (%nb_adults):"
+msgid "price_breakdown_adults_several"
+msgstr "Volwassenen (%nb_adults):"
+
+msgctxt "Adult:"
+msgid "price_breakdown_adult_one"
+msgstr "Volwassene:"
+
+msgctxt "Extra children (%nb_children):"
+msgid "price_breakdown_extra_children_several"
+msgstr "Extra kinderen (%nb_children):"
+
+msgctxt "Extra child:"
+msgid "price_breakdown_extra_child_one"
+msgstr "Extra kind:"
+
+msgctxt "Children (%nb_children):"
+msgid "price_breakdown_children_several"
+msgstr "Kinderen  (%nb_children):"
+
+msgctxt "Child:"
+msgid "price_breakdown_child_one"
+msgstr "Kind:"
+
+msgctxt "From %from_date to %to_date"
+msgid "price_breakdown_dates"
+msgstr "Van %from_date tot %to_date:"
+
+msgctxt "Discount:"
+msgid "price_breakdown_discount"
+msgstr "Korting:"
+
+msgctxt "adults"
+msgid "fee_details_adults_several"
+msgstr "volwassenen"
+
+msgctxt "adult"
+msgid "fee_details_adult_one"
+msgstr "volwassene"
+
+msgctxt "children"
+msgid "fee_details_children_several"
+msgstr "kinderen"
+
+msgctxt "child"
+msgid "fee_details_child_one"
+msgstr "kind"
+
+msgctxt "persons"
+msgid "fee_details_persons"
+msgstr "personen"
+
+msgctxt "Select this accommodation"
+msgid "select_accom_button"
+msgstr "Boek deze accomodatie"
+
+msgctxt "Book now!"
+msgid "accom_book_now_button"
+msgstr "Boek nu !"
+
+msgctxt "View this accommodation"
+msgid "view_accom_button"
+msgstr "Bekijk deze accomodatie"
+
+msgctxt "You have selected the %accom_name."
+msgid "selected_accom"
+msgstr "Je hebt gekozen voor de accomodatie %accom_name"
+
+msgctxt "Fees:"
+msgid "price_breakdown_fees"
+msgstr "Toeslagen:"
+
+msgctxt "Select your accommodation number"
+msgid "select_accom_num_title"
+msgstr ""
+
+msgctxt "%accom_name number %accom_num"
+msgid "select_accom_num_label"
+msgstr "%accom_name nummer %accom_num"
+
+msgctxt ""
+msgid "select_accom_num_text"
+msgstr ""
+
+msgctxt "Select your options"
+msgid "select_options_title"
+msgstr "Kies jouw optionele extra's"
+
+msgctxt "Extra services:"
+msgid "chosen_options"
+msgstr "Extra's:"
+
+msgctxt "(%price%each%max)"
+msgid "price_option"
+msgstr "(%price%each%max)"
+
+msgctxt "(free)"
+msgid "free_option"
+msgstr "(gratis)"
+
+msgctxt " each"
+msgid "each_option"
+msgstr "per stuk"
+
+msgctxt " - Maximum: %max_value"
+msgid "max_option"
+msgstr " - Maximum: %max_value"
+
+msgctxt "Options total price:"
+msgid "total_options_price"
+msgstr "Totaal aan extra's:"
+
+msgctxt "Enter your details"
+msgid "details_form_title"
+msgstr "Vul uw gegevens in"
+
+msgctxt ""
+msgid "first_name"
+msgstr "Voornaam"
+
+msgctxt ""
+msgid "last_name"
+msgstr "Achternaam"
+
+msgctxt ""
+msgid "email"
+msgstr "e-mail"
+
+msgctxt ""
+msgid "telefoon"
+msgstr ""
+
+msgctxt ""
+msgid "straat__huisnummer"
+msgstr ""
+
+msgctxt ""
+msgid "postcode"
+msgstr ""
+
+msgctxt ""
+msgid "plaats"
+msgstr ""
+
+msgctxt ""
+msgid "land"
+msgstr ""
+
+msgctxt "Accept our policies for this reservation"
+msgid "terms_and_cond_title"
+msgstr "Algemene voorwaarden"
+
+msgctxt "I have read and I accept the terms and conditions for this booking."
+msgid "terms_and_cond_text"
+msgstr "Ik heb de algemene voorwaarden gelezen en accepteer deze. "
+
+msgctxt "Please confirm you have read and you accept the terms and conditions by checking the box."
+msgid "terms_and_cond_error"
+msgstr "Bevestig dat je de algemene voorwaarden gelezen hebt en aanvaard"
+
+msgctxt "I have read and I accept the privacy policy and I give my consent for the information above to be collected."
+msgid "privacy_policy_text"
+msgstr "Ik heb het privacy beleid gelezen en ga hiermee akkoord en ik geef toestemming om informatie te.verzamelen"
+
+msgctxt "Please confirm you have read and you accept the privacy policy and you give your consent for the information above to be collected by checking the box."
+msgid "privacy_policy_error"
+msgstr "Bevestig dat je het privacybeleid hebt gelezen en aanvaard. Je geeft hiermee toestemming dat wij de hierboven ingevulde gegevens opslaan."
+
+msgctxt "Please double check your reservation details before clicking on "Book now"."
+msgid "txt_before_book_now_button"
+msgstr "Controleer alsjeblieft jouw boekingsgegevens voordat je op Nu boeken klikt."
+
+msgctxt "Book now!"
+msgid "book_now_button"
+msgstr "Nu boeken !"
+
+msgctxt "Unfortunately the accommodation you have selected is no longer available. Please select another accommodation or start searching again."
+msgid "accom_no_longer_available"
+msgstr "Jammer genoeg is de door jou gekozen accomodatie niet meer beschikbaar. Kies een andere accomodatie of een andere datum."
+
+msgctxt "The %accom_name number %accom_num is no longer available. Please select another accommodation number."
+msgid "accom_num_no_longer_available"
+msgstr "Geselecteerd %accom_name nummer %accom_num is niet meer beschikbaar"
+
+msgctxt "Processing..."
+msgid "processing"
+msgstr "Even geduld..."
+
+msgctxt "Coupon"
+msgid "coupons_section_title"
+msgstr "Kortingscode"
+
+msgctxt "If you have a coupon code enter it in the field below and click on apply."
+msgid "coupons_text"
+msgstr "Als je een korting code hebt, vul die dan in het veld beneden in en klik op toepassen. Klik hier om de mogelijke korting codes te zien."
+
+msgctxt "Apply"
+msgid "coupons_button"
+msgstr "Toepassen"
+
+msgctxt "Your coupon code is valid! We have applied a %amount discount!"
+msgid "valid_coupon"
+msgstr "Jouw kortingscode code is geldig ! We hebben een korting van %amount toegepast"
+
+msgctxt "This coupon code is not valid."
+msgid "invalid_coupon"
+msgstr "Jouw kortingscode code is niet geldig of je voldoet niet aan de voorwaarden"
+
+msgctxt "This coupon code is no longer valid."
+msgid "coupon_no_longer_valid"
+msgstr "Deze kortingscode is niet lager geldig."
+
+msgctxt "Please enter a coupon code."
+msgid "no_coupon"
+msgstr "Geef een kortingscode code in"
+
+msgctxt "Reservation summary"
+msgid "summary_title"
+msgstr "Samenvatting van jouw reservering"
+
+msgctxt "Number of nights:"
+msgid "number_of_nights"
+msgstr "Aantal nachten:"
+
+msgctxt "Change"
+msgid "summary_change"
+msgstr "Wijzig"
+
+msgctxt "Accommodation:"
+msgid "summary_accommodation"
+msgstr "Accomodatie:"
+
+msgctxt "Accommodation number:"
+msgid "summary_accommodation_number"
+msgstr "Accommodatie nummer:"
+
+msgctxt "Accommodation price:"
+msgid "summary_accom_price"
+msgstr "Prijs accomodatie:"
+
+msgctxt "Options price:"
+msgid "summary_options_price"
+msgstr "Prijs van de extras:"
+
+msgctxt "Price includes:"
+msgid "summary_included_fees"
+msgstr "Prijs is inclusief:"
+
+msgctxt "Coupon amount:"
+msgid "summary_coupon_amount"
+msgstr "Korting"
+
+msgctxt "Discount amount:"
+msgid "summary_discount_amount"
+msgstr "Kortings hoeveelheid:"
+
+msgctxt "Total price:"
+msgid "summary_price"
+msgstr "Totale prijs:"
+
+msgctxt "Deposit amount:"
+msgid "summary_deposit"
+msgstr "Voorschot:"
+
+msgctxt "Security bond amount:"
+msgid "summary_security_bond"
+msgstr "Borg"
+
+msgctxt "This will be refunded after your stay minus possible damage costs."
+msgid "summary_security_bond_explanation"
+msgstr "Dit wordt teruggeven na jouw verblijf, minus eventueel gemaakte kosten"
+
+msgctxt "Thanks for your reservation! We have just sent you a confirmation email at %customer_email with the following details:"
+msgid "thanks_message_1"
+msgstr "Bedankt voor je reserveringsaanvraag We hebben zojuist een bevestiging van deze aanvraag gestuurd naar %customer_email met de volgende gegevens:"
+
+msgctxt "See you soon!"
+msgid "thanks_message_2"
+msgstr "Tot binnenkort ! "
+
+msgctxt "Thanks for your reservation! We confirm that we have received your payment and have just sent you a confirmation email at %customer_email with the following details:"
+msgid "thanks_message_payment_done_1"
+msgstr "Bedankt voor jouw reservering. We bevestigen dat we jouw betaling hebben ontvangen en hebben je zojuist een ontvangstbevestiging per e-mail verstuurd met de volgende details:"
+
+msgctxt "See you soon!"
+msgid "thanks_message_payment_done_2"
+msgstr "Tot binnenkort ! "
+
+msgctxt "Payment"
+msgid "payment_section_title"
+msgstr "Betaling"
+
+msgctxt "Select your payment type:"
+msgid "payment_type"
+msgstr "Kies de betaalwijze"
+
+msgctxt "On arrival or offline payment"
+msgid "payment_type_offline"
+msgstr "Betalen bij aankomst"
+
+msgctxt "Leave credit card details (the card will not be charged now)"
+msgid "payment_type_store_credit_card"
+msgstr "Laat je credit card gegevens achter. (De kaart zal niet nu worden belast)"
+
+msgctxt "Pay deposit now"
+msgid "payment_type_deposit"
+msgstr "Betaal het voorschot nu direct, online."
+
+msgctxt "Pay total price now"
+msgid "payment_type_full"
+msgstr "Betaal de volledige prijs direct, online."
+
+msgctxt "You will pay for your stay at a later stage. The total price is %full_amount"
+msgid "payment_type_explanation_offline"
+msgstr "De totale prijs is %full_amount"
+
+msgctxt "We ask for your credit card details but we will not charge it now."
+msgid "payment_type_explanation_store_credit_card"
+msgstr "We vragen jouw credit card gegevens, maar zullen hem nog niet belasten"
+
+msgctxt "You will be charged %deposit_amount"
+msgid "payment_type_explanation_deposit"
+msgstr "De aanbetaling bedraagt %deposit_amount. Het restant bedrag van %full_minus_deposit_amount te betalen bij aankomst."
+
+msgctxt "You will be charged %full_amount"
+msgid "payment_type_explanation_full"
+msgstr "Betaal het gehele bedrag van %full_amount nu direct."
+
+msgctxt "Select your payment method:"
+msgid "payment_method"
+msgstr "Kies uw betaalwijze"
+
+msgctxt "PayPal"
+msgid "paypal_payment_method_label"
+msgstr "PayPal"
+
+msgctxt "Click on Book Now to confirm your reservation. You will be redirected to PayPal to complete your payment."
+msgid "paypal_text_before_form"
+msgstr "Klik op Boek nu om uw reservering te bevestigen. U wordt doorgestuurd naar PayPal om uw betaling te vervolledigen."
+
+msgctxt "Secured payments by"
+msgid "paypal_bottom_text_line_1"
+msgstr "Beveiligde betaling door"
+
+msgctxt "You can pay with your credit card"
+msgid "paypal_bottom_text_line_2"
+msgstr "Je kunt met je creditcard betalen"
+
+msgctxt "%accom_name%deposit_txt - %nights_txt (from %check_in_date to %check_out_date) - %adults_txt%children_txt"
+msgid "external_payment_txt_desc"
+msgstr "%accom_name%deposit_txt - %nights_txt (van %check_in_date tot %check_out_date) - %adults_txt%children_txt"
+
+msgctxt " (deposit)"
+msgid "external_payment_txt_deposit"
+msgstr " (voorschot)"
+
+msgctxt "1 night"
+msgid "external_payment_txt_one_night"
+msgstr "1 nacht"
+
+msgctxt "%nb_nights nights"
+msgid "external_payment_txt_several_nights"
+msgstr "%nb_nights nachten"
+
+msgctxt "1 adult"
+msgid "external_payment_txt_one_adult"
+msgstr "1 volwassene"
+
+msgctxt "%nb_adults adults"
+msgid "external_payment_txt_several_adults"
+msgstr "%nb_adults volwassenen"
+
+msgctxt " - 1 child"
+msgid "external_payment_txt_one_child"
+msgstr " - 1 kind"
+
+msgctxt " - %nb_children children"
+msgid "external_payment_txt_several_children"
+msgstr " - %nb_children children"
+
+msgctxt "Credit or debit card"
+msgid "stripe_payment_method_label"
+msgstr "Credit kaart"
+
+msgctxt "Please enter your credit cards details below."
+msgid "stripe_text_before_form"
+msgstr "Geef hieronder jouw creditcard gegevens in"
+
+msgctxt "Could not process the payment (%error_msg)."
+msgid "stripe_processing_error"
+msgstr "De betaling kon niet worden uitgevoerd (%error_msg)."
+
+msgctxt "Safe and secure payments SSL encrypted"
+msgid "stripe_text_bottom_form"
+msgstr "Beveiligde betaling, SSL versleuteld"
+
+msgctxt "Required field."
+msgid "required_field"
+msgstr "Verplicht veld."
+
+msgctxt "Invalid email."
+msgid "invalid_email"
+msgstr "Ongeldig e-mailadres"
+
+msgctxt "This field can only contain numbers."
+msgid "invalid_number"
+msgstr "Dit veld kan alleen getallen bevatten"
+
+msgctxt "There was a connection error. Please try again."
+msgid "connection_error"
+msgstr "Er was een connectiefout. Probeer opnieuw alstublieft."
+
+msgctxt "Your session has timed out. Please start a new booking request."
+msgid "timeout_error"
+msgstr "Uw sessie is afgebroken. Start een nieuwe boekingsaanvraag."
+
+msgctxt "Error: season is not defined for %night."
+msgid "error_season_not_defined"
+msgstr "Fout: het seizoen is niet aangegeven voor %night."
+
+msgctxt "Error: please add a rate for accommodation named %accom_name and season named %season_name."
+msgid "error_rate_not_defined"
+msgstr " Fout: voeg een tarief toe voor de naam met de naam %accom_name en seizoen genaamd %season_name."
+
+msgctxt "Occupied"
+msgid "legend_occupied"
+msgstr "Bezet"
+
+msgctxt "Past"
+msgid "legend_past"
+msgstr "Voorbij"
+
+msgctxt "Closed"
+msgid "legend_closed"
+msgstr "Gesloten"
+
+msgctxt "Available"
+msgid "legend_available"
+msgstr "Beschikbaar"
+
+msgctxt "Before check-in day"
+msgid "legend_before_check_in"
+msgstr "Voor check-in dag"
+
+msgctxt "Not available for check-in"
+msgid "legend_no_check_in"
+msgstr "Niet beschikbaar voor aankomst"
+
+msgctxt "Not available for check-out"
+msgid "legend_no_check_out"
+msgstr "Niet beschikbaar voor vertrek"
+
+msgctxt "Available for check-in only"
+msgid "legend_check_in_only"
+msgstr "Enkel beschikbaar voor aankomst"
+
+msgctxt "Available for check-out only"
+msgid "legend_check_out_only"
+msgstr "Enkel beschikbaar voor vertrek"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night minimum-stay requirement)"
+msgid "legend_no_check_out_min_stay"
+msgstr "Niet beschikbaar voor vertrek (minimum %nb_nights-night nachten)"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night maximum-stay requirement)"
+msgid "legend_no_check_out_max_stay"
+msgstr "Niet beschikbaar voor vertrek (maximum %nb_nights-night nachten)"
+
+msgctxt "Chosen check-in day"
+msgid "legend_check_in"
+msgstr "Gekozen aankomstdag"
+
+msgctxt "Chosen check-out day"
+msgid "legend_check_out"
+msgstr "Gekozen vertrekdag"
+
+msgctxt "Select a check-in date."
+msgid "legend_select_check_in"
+msgstr "Kies een aankomstdatum"
+
+msgctxt "Select a check-out date."
+msgid "legend_select_check_out"
+msgstr "Kies een vertrekdatum"
+
+msgctxt "Season"
+msgid "table_rates_season"
+msgstr "Seizoen"
+
+msgctxt "From"
+msgid "table_rates_from"
+msgstr "Van"
+
+msgctxt "To"
+msgid "table_rates_to"
+msgstr "Tot"
+
+msgctxt "Nights"
+msgid "table_rates_nights"
+msgstr "Nachten"
+
+msgctxt "Price"
+msgid "table_rates_price"
+msgstr "Prijs"
+
+msgctxt "per night"
+msgid "table_rates_per_night"
+msgstr "per nacht"
+
+msgctxt ""
+msgid "table_rates_all_nights"
+msgstr "Alle nachten"
+
+msgctxt "for a %nb_nights-night stay"
+msgid "table_rates_for_night_stay"
+msgstr "voor een verblijf van %nb_nights nachten"
+
+msgctxt "Description"
+msgid "table_invoice_head_description"
+msgstr "Omschrijving"
+
+msgctxt "Amount"
+msgid "table_invoice_head_amount"
+msgstr "Bedrag"
+
+msgctxt "Accommodation"
+msgid "table_invoice_accom_title"
+msgstr "Accommodatie"
+
+msgctxt "Discount"
+msgid "table_invoice_discount"
+msgstr "Korting"
+
+msgctxt "Surcharge"
+msgid "table_invoice_surcharge"
+msgstr "Toeslag"
+
+msgctxt "Accommodation subtotal"
+msgid "table_invoice_accom_subtotal"
+msgstr "Accommodatie subtotaal"
+
+msgctxt "Accommodation total"
+msgid "table_invoice_accom_total"
+msgstr "Accommodatie totaal"
+
+msgctxt "Extra services"
+msgid "table_invoice_extras_title"
+msgstr "Extra diensten"
+
+msgctxt "Extra services subtotal"
+msgid "table_invoice_extras_subtotal"
+msgstr "Extra diensten subtotaal"
+
+msgctxt "Extra services total"
+msgid "table_invoice_extras_total"
+msgstr "Extra diensten totaal"
+
+msgctxt "Coupon"
+msgid "table_invoice_coupon"
+msgstr "Coupon"
+
+msgctxt "Subtotal"
+msgid "table_invoice_subtotal"
+msgstr "Subtotaal"
+
+msgctxt "Total"
+msgid "table_invoice_total"
+msgstr "Totaal"
+
+msgctxt "Including"
+msgid "table_invoice_included_fee"
+msgstr "inclusief"
+
+msgctxt ""
+msgid "season_1"
+msgstr "Het gehele jaar."
+
+msgctxt "price starting at %price"
+msgid "accom_starting_price"
+msgstr "prijs vanaf %price"
+
+msgctxt "per night"
+msgid "accom_starting_price_duration_unit"
+msgstr "per nacht"
+

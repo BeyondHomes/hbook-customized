@@ -1,0 +1,867 @@
+msgctxt "Search"
+msgid "default_form_title"
+msgstr "Keresés"
+
+msgctxt "Check price and availability for the %accom_name"
+msgid "accom_page_form_title"
+msgstr "Ellenőrizd a %accom_name árát és elérhetőségét"
+
+msgctxt "Check-in"
+msgid "check_in"
+msgstr "Érkezés"
+
+msgctxt "Check-out"
+msgid "check_out"
+msgstr "Távozás"
+
+msgctxt "Adults"
+msgid "adults"
+msgstr "Felnőttek"
+
+msgctxt "Children"
+msgid "children"
+msgstr "Gyerekek"
+
+msgctxt "Check-in:"
+msgid "chosen_check_in"
+msgstr "Érkezés:"
+
+msgctxt "Check-out:"
+msgid "chosen_check_out"
+msgstr "Távozás:"
+
+msgctxt "Adults:"
+msgid "chosen_adults"
+msgstr "Felnőttek:"
+
+msgctxt "Children:"
+msgid "chosen_children"
+msgstr "Gyerekek:"
+
+msgctxt "Search"
+msgid "search_button"
+msgstr "Keresés"
+
+msgctxt "Change search"
+msgid "change_search_button"
+msgstr "Keresés megváltoztatása"
+
+msgctxt "Searching..."
+msgid "searching"
+msgstr "Keresés..."
+
+msgctxt "Please enter a check-in date."
+msgid "no_check_in_date"
+msgstr "Kérjük, írd be az érkezés dátumát."
+
+msgctxt "Please enter a check-out date."
+msgid "no_check_out_date"
+msgstr "Kérjük, írd be a távozás dátumát."
+
+msgctxt "Please enter a check-in date and a check-out date."
+msgid "no_check_in_out_date"
+msgstr "Kérjük, írd be az érkezés és a távozás dátumát."
+
+msgctxt "Please select the number of adults."
+msgid "no_adults"
+msgstr "Kérjük, írd be a felnőttek számát."
+
+msgctxt "Please select the number of children."
+msgid "no_children"
+msgstr "Kérjük, írd be a gyerekek számát."
+
+msgctxt "Please select the number of adults and the number of children."
+msgid "no_adults_children"
+msgstr "Kérjük, írd be a felnőttek és a gyermekek számát."
+
+msgctxt "The check-in date is not valid."
+msgid "invalid_check_in_date"
+msgstr "Az érekzés dátuma nem érvényes."
+
+msgctxt "The check-out date is not valid."
+msgid "invalid_check_out_date"
+msgstr "A távozás dátuma nem érvényes."
+
+msgctxt "The check-in date and the check-out date are not valid."
+msgid "invalid_check_in_out_date"
+msgstr "Az érkezés és a távozás dátuma nem érvényes."
+
+msgctxt "The check-in date can not be in the past."
+msgid "check_in_date_past"
+msgstr "Az érkezés dátuma nem lehet a mai napnál korábbi."
+
+msgctxt "The check-in date can not be before the %date."
+msgid "check_in_date_before_date"
+msgstr "Az érkezés dátuma nem lehet korábbi, mint %date."
+
+msgctxt "The check-out date can not be after the %date."
+msgid "check_out_date_after_date"
+msgstr "A távozás dátuma nem lehet későbbi, mint %date."
+
+msgctxt "The check-out date must be after the check-in date."
+msgid "check_out_before_check_in"
+msgstr "Az érkezés dátuma legyen korábbi a távozásé."
+
+msgctxt "Check-in is allowed only on specific days (%check_in_days)."
+msgid "check_in_day_not_allowed"
+msgstr "Érkezés csak a következő napokon lehetséges: (%check_in_days)."
+
+msgctxt "Check-in is allowed only on certain days. Please change your check-in date."
+msgid "check_in_day_not_allowed_seasonal"
+msgstr "Az érkezés csak a bizonyos napokon lehetséges. Kérjük, változtasd meg az érkezés dátumát."
+
+msgctxt "Check-out is allowed only on specific days (%check_out_days)."
+msgid "check_out_day_not_allowed"
+msgstr "Távozás csak a következő napokon lehetséges: (%check_out_days)."
+
+msgctxt "Check-out is allowed only on certain days. Please change your check-out date."
+msgid "check_out_day_not_allowed_seasonal"
+msgstr "A távozás csak a bizonyos napokon lehetséges. Kérjük, változtasd meg a távozás dátumát."
+
+msgctxt "A %nb_nights-nights minimum stay policy applies. Please modify your dates."
+msgid "minimum_stay"
+msgstr "Legalább %nb_nights-nights éjszakára lehet foglalni. Kárjük, módosíts az időpontokon."
+
+msgctxt "A minimum stay policy applies. Please modify your dates to extend your stay."
+msgid "minimum_stay_seasonal"
+msgstr "Meghatároztunk, hogy legalább hány éjszakára lehet foglalni. Kérjük, módosíts az időpontokon, hogy megfelelj a feltételnek."
+
+msgctxt "A %nb_nights-nights maximum stay policy applies. Please modify your dates."
+msgid "maximum_stay"
+msgstr "Legfeljebb %nb_nights-nights éjszakára lehet foglalni. Kárjük, módosíts az időpontokon."
+
+msgctxt "A maximum stay policy applies. Please modify your dates to shorten your stay."
+msgid "maximum_stay_seasonal"
+msgstr "Meghatároztunk, hogy legfeljebb hány éjszakára lehet foglalni. Kérjük, módosíts az időpontokon, hogy megfelelj a feltételnek."
+
+msgctxt "Guests check-in on %check_in_day must check-out on a specific day (%check_out_days)."
+msgid "check_out_day_not_allowed_for_check_in_day"
+msgstr "A %check_in_day érkező vedégeink ezeken a napokon távozhatnak: %check_out_days)."
+
+msgctxt "With this check-in date check-out is allowed only on certain days. Please change your check-in or check-out dates."
+msgid "check_out_day_not_allowed_for_check_in_day_seasonal"
+msgstr "Ha ezen a napon érkezel, csak bizonyos napokon távozhatsz. Kérjük, módosíts az érkezés vagy a távozás napján."
+
+msgctxt "A %nb_nights-night minimum stay is required for booking starting on %check_in_day."
+msgid "minimum_stay_for_check_in_day"
+msgstr "Legalább %nb_nights-night éjszakát kell foglalnod, ha az érkezés napja: %check_in_day."
+
+msgctxt "With this check-in date a minimum stay policy applies."
+msgid "minimum_stay_for_check_in_day_seasonal"
+msgstr "Legalább egy adott számú éjszakát kell foglalnod, ha ezen a npon érkezel."
+
+msgctxt "A %nb_nights-night maximum stay applies for booking starting on %check_in_day."
+msgid "maximum_stay_for_check_in_day"
+msgstr "Legfeljebb %nb_nights-night éjszakát foglalhatsz, ha a következő napon érkezel: %check_in_day."
+
+msgctxt "With this check-in date a maximum stay policy applies."
+msgid "maximum_stay_for_check_in_day_seasonal"
+msgstr "Legfeljebb egy adott számú éjszakát foglalhatsz, ha ezen a npon érkezel."
+
+msgctxt "Unfortunately the %accom_name can not suit %persons_nb persons."
+msgid "accom_can_not_suit_nb_people"
+msgstr "Sajnos a %accom_name kevesebb férőhellyel rendelkezik, mint %persons_nb fő."
+
+msgctxt "Unfortunately we could not find any accommodation that would suit %persons_nb persons."
+msgid "no_accom_can_suit_nb_people"
+msgstr "Sajnos nincsen olyan szobánk, ami %persons_nb főnek megfelelne."
+
+msgctxt "View all available accommodation for %persons_nb persons."
+msgid "view_accom_for_persons"
+msgstr "Tekintsd meg az elérhető szobáinkat %persons_nb főre."
+
+msgctxt "Unfortunately the %accom_name can not suit one person only."
+msgid "accom_can_not_suit_one_person"
+msgstr "Sajnos a %accom_name egyszemélyes."
+
+msgctxt "Unfortunately we could not find any accommodation that would suit one person only."
+msgid "no_accom_can_suit_one_person"
+msgstr "Sajnos nincsen egyszemélyes szabad szobánk."
+
+msgctxt "View all available accommodation for one person."
+msgid "view_accom_for_one_person"
+msgstr "Tekintsd meg az elérhető szobáinkat egy főre."
+
+msgctxt "Unfortunately we could not find any accommodation for the dates you entered."
+msgid "no_accom_at_chosen_dates"
+msgstr "Sajnos nincsen szabad szobánk a megjelölt időszakban."
+
+msgctxt "The %accom_name is not available at the chosen dates."
+msgid "accom_not_available_at_chosen_dates"
+msgstr "Nincsen elérhető %accom_name a kiválasztott időszakban."
+
+msgctxt "View all available accommodation at the chosen dates."
+msgid "view_accom_at_chosen_date"
+msgstr "Tekintsd meg az elérhető szobáinkat a kiválasztott időszakra."
+
+msgctxt "We have found 1 type of accommodation that suit your needs."
+msgid "one_type_of_accommodation_found"
+msgstr "1 szobatípust találtunk, ami megfelel az igényeidnek."
+
+msgctxt "We have found %nb_types types of accommodation that suit your needs."
+msgid "several_types_of_accommodation_found"
+msgstr "%nb_types szobatípust találtunk, ami megfelel az igényeidnek."
+
+msgctxt "Select your accommodation"
+msgid "select_accom_title"
+msgstr "Válassz szobát!"
+
+msgctxt "The %accom_name is available at the chosen dates."
+msgid "accom_available_at_chosen_dates"
+msgstr "A %accom_name elérhető a kiválasztott időszakban."
+
+msgctxt "price for 1 night"
+msgid "price_for_1_night"
+msgstr "ár 1 éjszakára"
+
+msgctxt "price for %nb_nights nights"
+msgid "price_for_several_nights"
+msgstr "ár %nb_nights éjszakára"
+
+msgctxt "View price breakdown"
+msgid "view_price_breakdown"
+msgstr "Ár részletezése"
+
+msgctxt "Hide price breakdown"
+msgid "hide_price_breakdown"
+msgstr "Részletek elrejtése"
+
+msgctxt "nights"
+msgid "price_breakdown_nights_several"
+msgstr "éjszakák"
+
+msgctxt "night"
+msgid "price_breakdown_night_one"
+msgstr "éjszaka"
+
+msgctxt "x %nb_nights-night"
+msgid "price_breakdown_multiple_nights"
+msgstr "x %nb_nights-night"
+
+msgctxt "Accommodation price:"
+msgid "price_breakdown_accom_price"
+msgstr "Szállás díja:"
+
+msgctxt "Extra adults (%nb_adults):"
+msgid "price_breakdown_extra_adults_several"
+msgstr "További felnőttek (%nb_adults):"
+
+msgctxt "Extra adult:"
+msgid "price_breakdown_extra_adult_one"
+msgstr "További felnőtt:"
+
+msgctxt "Adults (%nb_adults):"
+msgid "price_breakdown_adults_several"
+msgstr "Felnőttek (%nb_adults):"
+
+msgctxt "Adult:"
+msgid "price_breakdown_adult_one"
+msgstr "Felnőtt:"
+
+msgctxt "Extra children (%nb_children):"
+msgid "price_breakdown_extra_children_several"
+msgstr "További gyermekek (%nb_children):"
+
+msgctxt "Extra child:"
+msgid "price_breakdown_extra_child_one"
+msgstr "További gyermek:"
+
+msgctxt "Children (%nb_children):"
+msgid "price_breakdown_children_several"
+msgstr "Gyermekek (%nb_children):"
+
+msgctxt "Child:"
+msgid "price_breakdown_child_one"
+msgstr "Gyermek:"
+
+msgctxt "From %from_date to %to_date"
+msgid "price_breakdown_dates"
+msgstr "Érkezés: %from_date | Távozás: %to_date"
+
+msgctxt "Discount:"
+msgid "price_breakdown_discount"
+msgstr "Kedvezmény:"
+
+msgctxt "adults"
+msgid "fee_details_adults_several"
+msgstr "felnőttek"
+
+msgctxt "adult"
+msgid "fee_details_adult_one"
+msgstr "felnőtt"
+
+msgctxt "children"
+msgid "fee_details_children_several"
+msgstr "gyermekek"
+
+msgctxt "child"
+msgid "fee_details_child_one"
+msgstr "gyermek"
+
+msgctxt "persons"
+msgid "fee_details_persons"
+msgstr "személyek"
+
+msgctxt "Select this accommodation"
+msgid "select_accom_button"
+msgstr "Kiválasztom ezt a szállást!"
+
+msgctxt "Book now!"
+msgid "accom_book_now_button"
+msgstr "Foglalás"
+
+msgctxt "View this accommodation"
+msgid "view_accom_button"
+msgstr "Szállás megtekintése"
+
+msgctxt "You have selected the %accom_name."
+msgid "selected_accom"
+msgstr "A %accom_name típust választotta."
+
+msgctxt "Fees:"
+msgid "price_breakdown_fees"
+msgstr "Díjak:"
+
+msgctxt "Select your accommodation number"
+msgid "select_accom_num_title"
+msgstr "Írd be, hogy hány szobát foglalnál"
+
+msgctxt "%accom_name number %accom_num"
+msgid "select_accom_num_label"
+msgstr "Típus: %accom_name | %accom_num darab"
+
+msgctxt ""
+msgid "select_accom_num_text"
+msgstr ""
+
+msgctxt "Select your options"
+msgid "select_options_title"
+msgstr "Válassz a lehetőségek közül"
+
+msgctxt "Extra services:"
+msgid "chosen_options"
+msgstr "További szolgáltatások:"
+
+msgctxt "(%price%each%max)"
+msgid "price_option"
+msgstr "(%price%each%max)"
+
+msgctxt "(free)"
+msgid "free_option"
+msgstr "(ingyenes)"
+
+msgctxt " each"
+msgid "each_option"
+msgstr "/db"
+
+msgctxt " - Maximum: %max_value"
+msgid "max_option"
+msgstr " - Maximum: %max_value"
+
+msgctxt "Options total price:"
+msgid "total_options_price"
+msgstr "További szolgáltatások végösszege:"
+
+msgctxt "Tourist tax"
+msgid "fee_2"
+msgstr "Idegenforgalmi adó"
+
+msgid "option_10"
+msgstr ""
+
+msgid "option_choice_3"
+msgstr ""
+
+msgid "option_choice_4"
+msgstr ""
+
+msgid "option_choice_5"
+msgstr ""
+
+msgid "option_11"
+msgstr ""
+
+msgctxt "Enter your details"
+msgid "details_form_title"
+msgstr "Írd be a foglalási adatokat"
+
+msgctxt "First name"
+msgid "first_name"
+msgstr "Keresztnév"
+
+msgctxt "Last name"
+msgid "last_name"
+msgstr "Vezetéknév"
+
+msgctxt "Email"
+msgid "email"
+msgstr "E-mail"
+
+msgctxt "Phone"
+msgid "phone"
+msgstr "Telefonszám"
+
+msgctxt "Address line 1"
+msgid "address_1"
+msgstr "Cím 1. sora"
+
+msgctxt "City"
+msgid "city"
+msgstr "Település"
+
+msgctxt "State / province"
+msgid "state_province"
+msgstr "Megye"
+
+msgctxt "Zip code"
+msgid "zip_code"
+msgstr "Irányítószám"
+
+msgctxt "Country"
+msgid "country"
+msgstr "Ország"
+
+msgctxt "Accept our policies for this reservation"
+msgid "terms_and_cond_title"
+msgstr "Fogadd el az irányelveinket a foglaláshoz"
+
+msgctxt "I have read and I accept the <a href="" target="_blank">terms and conditions</a> for this booking."
+msgid "terms_and_cond_text"
+msgstr "Elolvastam és elfogadom a foglalás <a href="" target="_blank">Általános Szerződési Feltételeit</a>."
+
+msgctxt "Please confirm you have read and you accept the <a href="" target="_blank">terms and conditions</a> by checking the box."
+msgid "terms_and_cond_error"
+msgstr "Kérjük, a négyzet bejelölésével fejezd ki, hogy elolvastad és elfogadtad a foglalás <a href="" target="_blank">Általános Szerződési Feltételeit</a>."
+
+msgctxt "I have read and I accept the <a href="" target="_blank">privacy policy</a> and I give my consent for the information above to be collected."
+msgid "privacy_policy_text"
+msgstr "Elolvastam és elfogadom az <a href="" target="_blank">Adatvédelmi irányelveket</a>, és hozzájárulok a fenti információk begyűjtéséhez és tárolásához."
+
+msgctxt "Please confirm you have read and you accept the privacy policy and you give your consent for the information above to be collected by checking the box."
+msgid "privacy_policy_error"
+msgstr "Kérjük, a négyzet bejelölésével fejezd ki, hogy elolvastad és elfogadtad az Adatvédelmi irányelveket, és hozzájárulsz a fenti információk begyűjtéséhez és tárolásához."
+
+msgctxt "Please double check your reservation details before clicking on "Book now"."
+msgid "txt_before_book_now_button"
+msgstr "Kérjük, ellenőrizd a foglalásod részleteit, mielőtt a "Foglalás" gombra kattintasz."
+
+msgctxt "Book now!"
+msgid "book_now_button"
+msgstr "Foglalás"
+
+msgctxt "Unfortunately the accommodation you have selected is no longer available. Please select another accommodation or start searching again."
+msgid "accom_no_longer_available"
+msgstr "A kiválasztott szoba már nem elérhető. Kérjük, válassz egy másik szobát, vagy indíts egy új keresést."
+
+msgctxt "The %accom_name number %accom_num is no longer available. Please select another accommodation number."
+msgid "accom_num_no_longer_available"
+msgstr "Már nem elérhető %accom_num darab %accom_name. Kérjük, válassz más szobaszámot."
+
+msgctxt "Processing..."
+msgid "processing"
+msgstr "Feldolgozás..."
+
+msgctxt "Coupon"
+msgid "coupons_section_title"
+msgstr "Kupon"
+
+msgctxt "If you have a coupon code enter it in the field below and click on apply."
+msgid "coupons_text"
+msgstr "Ha rendelkezel kuponkóddal, írd be az alábbi mezőbe, majd kattints az "Elfogadás"-ra."
+
+msgctxt "Apply"
+msgid "coupons_button"
+msgstr "Elfogadás"
+
+msgctxt "Your coupon code is valid! We have applied a %amount discount!"
+msgid "valid_coupon"
+msgstr "Érvényes kuponkód! Aktiváltuk a %amount kezdvezményt!"
+
+msgctxt "This coupon code is not valid."
+msgid "invalid_coupon"
+msgstr "A kuponkód nem érvényes."
+
+msgctxt "This coupon code is no longer valid."
+msgid "coupon_no_longer_valid"
+msgstr "A kuponkód már nem érvényes."
+
+msgctxt "Please enter a coupon code."
+msgid "no_coupon"
+msgstr "Kérjük, írd be a kuponkódot."
+
+msgctxt "Reservation summary"
+msgid "summary_title"
+msgstr "Foglalás összegzése"
+
+msgctxt "Number of nights:"
+msgid "number_of_nights"
+msgstr "Éjszakák száma:"
+
+msgctxt "Change"
+msgid "summary_change"
+msgstr "Változtatás"
+
+msgctxt "Accommodation:"
+msgid "summary_accommodation"
+msgstr "Szoba:"
+
+msgctxt "Accommodation number:"
+msgid "summary_accommodation_number"
+msgstr "Szobák darabszáma:"
+
+msgctxt "Accommodation price:"
+msgid "summary_accom_price"
+msgstr "Szállás díja:"
+
+msgctxt "Options price:"
+msgid "summary_options_price"
+msgstr "Egyéb díjak:"
+
+msgctxt "Price includes:"
+msgid "summary_included_fees"
+msgstr "Az ár tartalmazza:"
+
+msgctxt "Coupon amount:"
+msgid "summary_coupon_amount"
+msgstr "Kuponok összege:"
+
+msgctxt "Discount amount:"
+msgid "summary_discount_amount"
+msgstr "Kedvezmény mértéke:"
+
+msgctxt "Total price:"
+msgid "summary_price"
+msgstr "Teljes összeg:"
+
+msgctxt "Deposit amount:"
+msgid "summary_deposit"
+msgstr "Foglalási díj összege:"
+
+msgctxt "Security bond amount:"
+msgid "summary_security_bond"
+msgstr "Kaució összege:"
+
+msgctxt "This will be refunded after your stay minus possible damage costs."
+msgid "summary_security_bond_explanation"
+msgstr "Ezt az öszeget jóváírjuk a távozáskor, melyből az esetleges károkozás költségei levonásra kerülnek."
+
+msgctxt "Thanks for your reservation! We have just sent you a confirmation email at %customer_email with the following details:"
+msgid "thanks_message_1"
+msgstr "Köszönjük a foglalásod! Elküldtük a visszaigazoló e-mailt a %customer_email címre az alábbi adatokkal:"
+
+msgctxt "See you soon!"
+msgid "thanks_message_2"
+msgstr "Várjuk a találkozást!"
+
+msgctxt "Thanks for your reservation! We confirm that we have received your payment and have just sent you a confirmation email at %customer_email with the following details:"
+msgid "thanks_message_payment_done_1"
+msgstr "Köszönjük a foglalásod! Megkaptuk a befizetésed, és elküldtük a visszaigazoló e-mailt a %customer_email címre az alábbi adatokkal:"
+
+msgctxt "See you soon!"
+msgid "thanks_message_payment_done_2"
+msgstr "Várjuk a találkozást!"
+
+msgctxt "Payment"
+msgid "payment_section_title"
+msgstr "Fizetés"
+
+msgctxt "Select your payment type:"
+msgid "payment_type"
+msgstr "Válaszd ki a fizetési módot:"
+
+msgctxt "On arrival or offline payment"
+msgid "payment_type_offline"
+msgstr "Fizetés érkezéskor"
+
+msgctxt "Leave credit card details (the card will not be charged now)"
+msgid "payment_type_store_credit_card"
+msgstr "Hitelkártyával (a kártyát most nem terheljük meg)"
+
+msgctxt "Pay deposit now"
+msgid "payment_type_deposit"
+msgstr "Foglaló fizetése"
+
+msgctxt "Pay total price now"
+msgid "payment_type_full"
+msgstr "Teljes ár kifizetése"
+
+msgctxt "You will pay for your stay at a later stage. The total price is %full_amount"
+msgid "payment_type_explanation_offline"
+msgstr "A szállásért később fizetsz. A teljes összeg %full_amount."
+
+msgctxt "We ask for your credit card details but we will not charge it now."
+msgid "payment_type_explanation_store_credit_card"
+msgstr "Kérjük, add meg a bankkártyád adatait, melyet most nem fogunk megterhelni."
+
+msgctxt "You will be charged %deposit_amount"
+msgid "payment_type_explanation_deposit"
+msgstr "A kártyádat megterheljük a %deposit_amount kaució összegével."
+
+msgctxt "You will be charged %full_amount"
+msgid "payment_type_explanation_full"
+msgstr "A kártyádat megterheljük a foglalás teljes összegével, ami %full_amount."
+
+msgctxt "Select your payment method:"
+msgid "payment_method"
+msgstr "Válaszd ki a fizetési módot:"
+
+msgctxt "PayPal"
+msgid "paypal_payment_method_label"
+msgstr "PayPal"
+
+msgctxt "Click on Book Now to confirm your reservation. You will be redirected to PayPal to complete your payment."
+msgid "paypal_text_before_form"
+msgstr "Kattints a gombra a szobafoglalás megerősítéséhez. Ezután automatikusan átirányítunk a PayPal felületére, ahol kifizetheted az összeget."
+
+msgctxt "Secured payments by"
+msgid "paypal_bottom_text_line_1"
+msgstr "Secured payments by"
+
+msgctxt "You can pay with your credit card"
+msgid "paypal_bottom_text_line_2"
+msgstr "Bankkártyával is fizethetsz"
+
+msgctxt "%accom_name%deposit_txt - %nights_txt (from %check_in_date to %check_out_date) - %adults_txt%children_txt"
+msgid "external_payment_txt_desc"
+msgstr "%accom_name%deposit_txt - %nights_txt (Érkezés: %check_in_date | Távozás: %check_out_date) - %adults_txt%children_txt"
+
+msgctxt "(deposit)"
+msgid "external_payment_txt_deposit"
+msgstr "(kaució)"
+
+msgctxt "1 night"
+msgid "external_payment_txt_one_night"
+msgstr "1 éjszaka"
+
+msgctxt "%nb_nights nights"
+msgid "external_payment_txt_several_nights"
+msgstr "%nb_nights éjszaka"
+
+msgctxt "1 adult"
+msgid "external_payment_txt_one_adult"
+msgstr "1 felnőtt"
+
+msgctxt "%nb_adults adults"
+msgid "external_payment_txt_several_adults"
+msgstr "%nb_adults felnőtt"
+
+msgctxt " - 1 child"
+msgid "external_payment_txt_one_child"
+msgstr " - 1 gyermek"
+
+msgctxt " - %nb_children children"
+msgid "external_payment_txt_several_children"
+msgstr " - %nb_children gyermek"
+
+msgctxt "Credit or debit card"
+msgid "stripe_payment_method_label"
+msgstr "Hitel- vagy betéti kártya"
+
+msgctxt "Please enter your credit cards details below."
+msgid "stripe_text_before_form"
+msgstr "Kérjük, írd be a bankkártyád adatait."
+
+msgctxt "Could not process the payment (%error_msg)."
+msgid "stripe_processing_error"
+msgstr "A fizetés nem folytatható: (%error_msg)."
+
+msgctxt "Safe and secure payments SSL encrypted"
+msgid "stripe_text_bottom_form"
+msgstr "Biztonságos SSL titkosított fizetés"
+
+msgctxt "Required field."
+msgid "required_field"
+msgstr "Kötelezően kitöltendő mező."
+
+msgctxt "Invalid email."
+msgid "invalid_email"
+msgstr "Érvénytelen e-mail cím."
+
+msgctxt "This field can only contain numbers."
+msgid "invalid_number"
+msgstr "Ez a mező csak számokat tartalmazhat."
+
+msgctxt "There was a connection error. Please try again."
+msgid "connection_error"
+msgstr "Hiba a kapcsolatban. Pórbáld meg később."
+
+msgctxt "Your session has timed out. Please start a new booking request."
+msgid "timeout_error"
+msgstr "A munkamenet ideje lejárt. Kérjük, kezd újra a foglalást."
+
+msgctxt "Error: season is not defined for %night."
+msgid "error_season_not_defined"
+msgstr "Hiba: Ebben a szezonban nem foglalhatsz %night éjszakára."
+
+msgctxt "Error: please add a rate for accommodation named %accom_name and season named %season_name."
+msgid "error_rate_not_defined"
+msgstr "Hiba: Kérjük, hogy adj díjakat a %accom_name típushoz és a %season_name időszakához."
+
+msgctxt "Occupied"
+msgid "legend_occupied"
+msgstr "Foglalt"
+
+msgctxt "Past"
+msgid "legend_past"
+msgstr "Ez már a múlt"
+
+msgctxt "Closed"
+msgid "legend_closed"
+msgstr "Lezárt"
+
+msgctxt "Available"
+msgid "legend_available"
+msgstr "Elérhető"
+
+msgctxt "Before check-in day"
+msgid "legend_before_check_in"
+msgstr "Ékezés előtt"
+
+msgctxt "Not available for check-in"
+msgid "legend_no_check_in"
+msgstr "Nem lehet bejelentkezni"
+
+msgctxt "Not available for check-out"
+msgid "legend_no_check_out"
+msgstr "Nem lehet kijelentkezni"
+
+msgctxt "Available for check-in only"
+msgid "legend_check_in_only"
+msgstr "Csak bejelentkezésre van lehetőség"
+
+msgctxt "Available for check-out only"
+msgid "legend_check_out_only"
+msgstr "Csak kijelentkezésre van lehetőség"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night minimum-stay requirement)"
+msgid "legend_no_check_out_min_stay"
+msgstr "Nincs lehetőség a kijelentkezésre (a %nb_nights-night minimálisan foglalható éjszaka miatt)"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night maximum-stay requirement)"
+msgid "legend_no_check_out_max_stay"
+msgstr "Nincs lehetőség a kijelentkezésre (a %nb_nights-night maximálisan foglalható éjszaka miatt)"
+
+msgctxt "Chosen check-in day"
+msgid "legend_check_in"
+msgstr "Az érkezés választott napja"
+
+msgctxt "Chosen check-out day"
+msgid "legend_check_out"
+msgstr "A távozás választott napja"
+
+msgctxt "Select a check-in date."
+msgid "legend_select_check_in"
+msgstr "Válaszd ki az érkezés napját!"
+
+msgctxt "Select a check-out date."
+msgid "legend_select_check_out"
+msgstr "Válaszd ki a távozás napját!"
+
+msgctxt "Season"
+msgid "table_rates_season"
+msgstr "Szezon"
+
+msgctxt "From"
+msgid "table_rates_from"
+msgstr "-tól"
+
+msgctxt "To"
+msgid "table_rates_to"
+msgstr "-ig"
+
+msgctxt "Nights"
+msgid "table_rates_nights"
+msgstr "Éjszakák"
+
+msgctxt "Price"
+msgid "table_rates_price"
+msgstr "Ár"
+
+msgctxt "per night"
+msgid "table_rates_per_night"
+msgstr "éjszakánként"
+
+msgctxt "All nights"
+msgid "table_rates_all_nights"
+msgstr "Összes éjszaka"
+
+msgctxt "for a %nb_nights-night stay"
+msgid "table_rates_for_night_stay"
+msgstr "%nb_nights éjszakás tartózkodásra"
+
+msgctxt "Description"
+msgid "table_invoice_head_description"
+msgstr "Leírás"
+
+msgctxt "Amount"
+msgid "table_invoice_head_amount"
+msgstr "Összeg"
+
+msgctxt "Accommodation"
+msgid "table_invoice_accom_title"
+msgstr "Szoba"
+
+msgctxt "Discount"
+msgid "table_invoice_discount"
+msgstr "Kedvezmény"
+
+msgctxt "Surcharge"
+msgid "table_invoice_surcharge"
+msgstr "Pótdíj"
+
+msgctxt "Accommodation subtotal"
+msgid "table_invoice_accom_subtotal"
+msgstr "Szobák részösszeg"
+
+msgctxt "Accommodation total"
+msgid "table_invoice_accom_total"
+msgstr "Szobák összesen"
+
+msgctxt "Extra services"
+msgid "table_invoice_extras_title"
+msgstr "További szolgáltatások"
+
+msgctxt "Extra services subtotal"
+msgid "table_invoice_extras_subtotal"
+msgstr "További szolgáltatások összege"
+
+msgctxt "Extra services total"
+msgid "table_invoice_extras_total"
+msgstr "Összes további szolgáltatás"
+
+msgctxt "Coupon"
+msgid "table_invoice_coupon"
+msgstr "Kupon"
+
+msgctxt "Subtotal"
+msgid "table_invoice_subtotal"
+msgstr "Részösszeg"
+
+msgctxt "Total"
+msgid "table_invoice_total"
+msgstr "Összesen"
+
+msgctxt "Including"
+msgid "table_invoice_included_fee"
+msgstr "Beleértve"
+
+msgctxt "Season"
+msgid "season_1"
+msgstr "Főszezon"
+
+msgctxt "Pre-Season"
+msgid "season_2"
+msgstr "Előszezon"
+
+msgctxt "Post-Season"
+msgid "season_3"
+msgstr "Utószezon"
+
+msgctxt "price starting at %price"
+msgid "accom_starting_price"
+msgstr "Indulóár: %price"
+
+msgctxt "per night"
+msgid "accom_starting_price_duration_unit"
+msgstr "éjszakánként"
+

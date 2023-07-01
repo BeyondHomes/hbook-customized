@@ -1,0 +1,15 @@
+.hb-add-new.spinner {
+	margin: -3px 0 0 3px;
+}
+
+input[type="text"].hb-rate-amount {
+	width: 80px;
+}
+
+input[type="text"].hb-coupon-code {
+	width: 120px;
+}
+
+input[type="text"].hb-rate-nights {
+	width: 40px;
+}

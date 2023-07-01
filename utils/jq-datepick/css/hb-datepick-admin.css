@@ -1,0 +1,30 @@
+.hb-datepick-wrapper,
+.hb-datepick-popup-wrapper {
+	background: #fff;
+	box-shadow: 0 0 30px rgba(0,0,0,0.33), 0 0 3px rgba(0,0,0,0.2);
+	z-index: 99999;
+}
+
+.hb-dp-day > span {
+	color: #aaa;
+}
+
+.hb-dp-day-past {
+	color: #aaa;
+}
+
+.hb-dp-day-check-in,
+.hb-dp-day-check-out,
+.hb-dp-day > span.hb-dp-day-check-in,
+.hb-dp-day > span.hb-dp-day-check-out {
+	color: #444;
+}
+
+.hb-dp-cmd-wrapper a {
+	background: #333;
+	color: #fff;
+}
+
+.hb-dp-cmd-wrapper a:hover {
+	background: #6f6f6f;
+}

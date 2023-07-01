@@ -1,0 +1,47 @@
+input[type="text"].hb-stay-length {
+	width: 100px;
+}
+
+.wp-list-table input[type="text"].hb-stay-length {
+	width: 30px;
+}
+
+.hb-add-new.spinner {
+	margin: -3px 0 0 3px;
+}
+
+.hb-rule-table th {
+	width: 28.33%;
+}
+
+.hb-rule-table th.hb-table-action {
+	width: 15%;
+}
+
+h3 {
+	margin-top: 25px;
+}
+
+.hb-conditional-rule-table th {
+	width: 11.5%;
+}
+
+.hb-conditional-rule-table th.hb-conditional-rule-name {
+	width: 10%;
+}
+
+.hb-conditional-rule-table th.hb-table-action {
+	width: 9.5%;
+}
+
+.hb-rule-box-with-border {
+	border-right: 2px solid #E1E1E1;
+}
+
+.hb-rule-legend {
+	font-size: 11px;
+}
+
+td.hb-advanced-rule-condition  {
+	border-top: none;
+}

@@ -1,0 +1,32 @@
+.hb-import-export-settings-wrapper + .hb-options-save-wrapper,
+.hb-reset-settings-wrapper + .hb-options-save-wrapper {
+	display: none;
+}
+
+.hb-import-settings-waiting-msg {
+	display: none;
+}
+
+.hb-import-settings-waiting-msg .spinner {
+	float: none;
+	margin: 0 3px 0 0;
+	visibility: visible;
+}
+
+.hb-import-existing-posts {
+	list-style-position: inside;
+	list-style-type: disc;
+	margin-left: 3px;
+}
+
+.hb-view-filters-default-values {
+	display: none;
+}
+
+.hb-toggle-default-filters.hb-view-all-active .hb-view-filters-default-values {
+	display: inline;
+}
+
+.hb-toggle-default-filters.hb-view-all-active .hb-hide-filters-default-values {
+	display: none;
+}

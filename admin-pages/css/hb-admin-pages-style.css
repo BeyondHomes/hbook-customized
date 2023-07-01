@@ -1,0 +1,256 @@
+input[type="text"],
+textarea {
+	max-width: 400px;
+	width: 100%;
+}
+
+a:focus {
+	box-shadow: none;
+}
+
+.hb-export-date-selection {
+	margin: 2px 0;
+}
+
+.hb-textarea-caption {
+	display: block;
+	max-width: 600px;
+}
+
+input[type="text"].hb-small-field {
+	width: 150px;
+}
+
+.hb-options-save-wrapper {
+	margin-bottom: 30px;
+}
+
+.hb-table {
+	background: #fff;
+	border: 1px solid #E5E5E5;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.hb-table-head {
+	border-bottom: 1px solid #E5E5E5;
+}
+
+.hb-table .dashicons {
+	color: #555;
+}
+
+.hb-table-head-data,
+.hb-table-data {
+	box-sizing: border-box;
+	float: left;
+	font-size: 14px;
+	padding: 10px;
+}
+
+.hb-table-data {
+	font-size: 13px;
+}
+
+.hb-table-row {
+	border-top: 1px solid #E5E5E5;
+}
+
+.hb-table-data input[type="text"]{
+	width: 100%;
+}
+
+.hb-table-head-data.hb-table-head-data-action,
+.hb-table-data.hb-table-data-action {
+	text-align: right;
+}
+
+.dashicons-plus {
+	margin-top: 2px;
+}
+
+.hb-ajaxing.hb-adding-child {
+	display: inline-block;
+}
+
+.wp-list-table th.hb-table-action,
+.wp-list-table td.hb-table-action {
+	padding-right: 20px;
+	text-align: right;
+}
+
+.wp-list-table td,
+.wp-list-table th {
+	border-top: 1px solid #e1e1e1;
+}
+
+.wp-list-table tfoot td,
+.wp-list-table tfoot th {
+	border-top: 2px solid #e1e1e1;
+}
+
+.wp-list-table thead th {
+	border-top: none;
+}
+
+.wp-list-table .hb-option-child td {
+	border-top: 1px dotted #eee;
+}
+
+label {
+	font-weight: bold;
+	line-height: 1.8;
+}
+
+input + label {
+	font-weight: normal;
+	line-height: 1.5;
+}
+
+.wp-list-table td p.amount-type,
+p.amount-type {
+	margin: 7px 0 2px;
+}
+
+.wp-list-table .hb-underlined-link {
+	text-decoration: underline;
+}
+
+.hb-ajaxing {
+	display: none;
+}
+
+.hb-ajaxing.hb-deleting {
+	display: inline;
+}
+
+.hb-resa-action-spinner .spinner,
+.hb-ajaxing .spinner,
+.hb-booking-searching .spinner,
+.hb-bulk-action-wrapper .spinner,
+.hb-loading-summary .spinner {
+	float: none;
+	margin: 0;
+	display: inline-block;
+	vertical-align: bottom;
+	visibility: visible;
+}
+
+.hb-add-new.spinner {
+	display: inline-block;
+	float: none;
+	visibility: hidden;
+}
+
+.hb-saved,
+.hb-error {
+	display: none;
+}
+
+.hb-error {
+	color: #e04343;
+}
+
+.wp-list-table .dashicons {
+	color: #555;
+}
+
+.hb-setting-deleted {
+	background: #ffd3d4;
+}
+
+input.hb-input-error {
+	border: 1px solid #e04343;
+}
+
+.add-new-h2 + .spinner {
+	margin: -4px 6px 0;
+}
+
+.wrap .add-new-h2,
+.wrap .add-new-h2:active {
+	margin-left: 10px;
+	top: -1px;
+}
+
+.wrap .add-new-below,
+.wrap .add-new-below:active {
+	margin-left: 0;
+}
+
+input.button-primary {
+	margin-bottom: 3px !important;
+}
+
+#hb-admin-settings-link {
+	position: absolute;
+	right: 23px;
+	top: 20px;
+}
+
+#hb-admin-settings-link .dashicons {
+	font-size: 11px;
+	text-align: left;
+	vertical-align: baseline;
+}
+
+#hb-admin-right-menu {
+	background: #23282d;
+	color: rgba(240,245,250,.7);
+	display: none;
+	padding: 6px 0 8px;
+	position: absolute;
+	right: 21px;
+	top: 46px;
+	width: 160px
+}
+
+@media screen and (max-width: 600px) {
+	#hb-admin-settings-link {
+		top: 66px;
+	}
+	#hb-admin-right-menu {
+		top: 92px;
+	}
+}
+
+#hb-admin-right-menu li {
+	margin-bottom: 0;
+}
+
+#hb-admin-right-menu a {
+	color: rgba(240,245,250,.7);
+	display: block;
+	padding: 4px 12px;
+	text-decoration: none;
+}
+
+#hb-admin-right-menu a:focus {
+	box-shadow: none;
+}
+
+#hb-admin-right-menu a:hover {
+	color: #00b9eb;
+}
+
+#hb-admin-right-menu a.hb-admin-right-menu-current-item {
+	color: #fff;
+	font-weight: bold;
+}
+
+.hb-dp-day a {
+	text-decoration: none;
+}
+
+.hb-ical-no-display {
+	display: none;
+}
+
+.hb-clearfix:before,
+.hb-clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.hb-clearfix:after {
+	clear: both;
+}

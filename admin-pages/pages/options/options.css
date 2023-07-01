@@ -1,0 +1,39 @@
+.hb-options-table .hb-table-head-data,
+.hb-options-table .hb-table-data {
+	width: 17%;
+}
+
+.hb-options-table .hb-table-data-accom,
+.hb-options-table .hb-table-head-data-accom {
+	width: 21%;
+}
+
+.hb-options-table .hb-table-data-action,
+.hb-options-table .hb-table-head-data-action,
+.hb-options-table .hb-table-data-choice,
+.hb-options-table .hb-table-head-data-choice {
+	width: 14%;
+}
+
+.hb-options-table select {
+	width: 100%;
+}
+
+.hb-option-choice-row {
+	border-top: 1px dashed #E5E5E5;
+}
+
+.hb-option-choice-row .hb-table-data-choice-name {
+	box-sizing: border-box;
+	padding-left: 25px;
+}
+
+.hb-option-link {
+	border-bottom: 1px solid #e5e5e5;
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+}
+
+.hb-option-link p {
+	margin: 0 0 5px;
+}

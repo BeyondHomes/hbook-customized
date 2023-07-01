@@ -1,0 +1,312 @@
+#hb-admin-add-resa {
+	padding: 2px 20px 17px;
+}
+
+/* search form */
+
+#hb-admin-add-resa .hb-title-search-form {
+	display: none;
+}
+
+.hb-check-dates-wrapper,
+.hb-admin-search-type-wrapper,
+.hb-people-wrapper,
+.hb-accom-number-wrapper,
+.hb-accom-wrapper,
+.hb-search-button-wrapper {
+	float: left;
+	margin-right: 1.5%;
+	position: relative;
+	width: 16.3%;
+}
+
+.hb-search-button-wrapper {
+	margin-right: 0;
+}
+
+.hb-admin-search-type-wrapper,
+.hb-people-wrapper,
+.hb-accom-wrapper {
+	width: 10.5%;
+}
+
+.hb-search-form-no-admin-search-type .hb-check-dates-wrapper,
+.hb-search-form-no-admin-search-type .hb-search-button-wrapper,
+.hb-search-form-no-children .hb-check-dates-wrapper,
+.hb-search-form-no-children .hb-search-button-wrapper {
+	width: 20.3%;
+}
+
+.hb-search-form-no-admin-search-type.hb-search-form-no-children .hb-check-dates-wrapper,
+.hb-search-form-no-admin-search-type.hb-search-form-no-children .hb-accom-wrapper,
+.hb-search-form-no-admin-search-type.hb-search-form-no-children .hb-search-button-wrapper,
+.hb-search-form-no-people .hb-check-dates-wrapper,
+.hb-search-form-no-people .hb-accom-wrapper,
+.hb-search-form-no-people .hb-search-button-wrapper,
+.hb-search-form-admin-multiple-accom .hb-check-dates-wrapper,
+.hb-search-form-admin-multiple-accom .hb-accom-number-wrapper,
+.hb-search-form-admin-multiple-accom .hb-search-button-wrapper {
+	width: 20.8%;
+}
+
+.hb-search-form-no-people.hb-search-form-no-admin-search-type .hb-check-dates-wrapper,
+.hb-search-form-no-people.hb-search-form-no-admin-search-type .hb-accom-number-wrapper,
+.hb-search-form-no-people.hb-search-form-no-admin-search-type .hb-search-button-wrapper {
+	width: 24.9%;
+}
+
+.hb-search-form-admin-multiple-accom .hb-people-wrapper,
+.hb-search-form-admin-multiple-accom .hb-accom-wrapper {
+	display: none;
+}
+
+.hb-search-form-admin-multiple-accom .hb-accom-number-wrapper {
+	display: block;
+}
+
+.hb-vertical-search-form .hb-check-dates-wrapper,
+.hb-vertical-search-form .hb-admin-search-type-wrapper,
+.hb-vertical-search-form .hb-people-wrapper,
+.hb-vertical-search-form .hb-accom-number-wrapper,
+.hb-vertical-search-form .hb-accom-wrapper,
+.hb-vertical-search-form .hb-search-button-wrapper {
+	float: none;
+	margin-right: 0%;
+	width: 100%;
+}
+
+.hb-vertical-search-form input,
+.hb-vertical-search-form select {
+	max-width: 100%;
+}
+
+.hb-search-form-no-admin-search-type .hb-admin-search-type-wrapper,
+.hb-search-form-no-people .hb-people-wrapper-adults,
+.hb-search-form-no-people .hb-chosen-adults,
+.hb-search-form-no-people .hb-people-wrapper-children,
+.hb-search-form-no-people .hb-chosen-children,
+.hb-search-form-no-children .hb-people-wrapper-children,
+.hb-search-form-no-children .hb-chosen-children {
+	display: none;
+}
+
+.hb-booking-search-form input,
+.hb-booking-search-form select {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.hb-accom-number-wrapper,
+.hb-multi-accom-people-selection-wrapper {
+	display: none;
+}
+
+.hb-people-popup-wrapper {
+	background: #fff;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	display: none;
+	margin: 10px 0;
+	left: 10px;
+	top: 10px;
+	padding: 15px 20px 5px;
+	position: absolute;
+	z-index: 99999;
+}
+
+.hb-people-popup-wrapper-close {
+	border-radius: 10px;
+	display: none;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 20px;
+	position: absolute;
+	right: 4px;
+	text-align: center;
+	text-decoration: none;
+	top: 4px;
+	width: 20px;
+	height: 20px;
+}
+
+.hb-multi-accom-people-title {
+	display: block;
+}
+
+.hb-multi-accom-people-wrapper {
+	float: left;
+	margin-right: 10px;
+	margin-top: 0px;
+}
+
+.hb-multi-accom-people-title {
+	font-weight: bold;
+}
+
+.hb-multi-accom-people-wrapper label {
+	display: table;
+	font-weight: 600;
+}
+
+.hb-booking-searching,
+.hb-searched-summary,
+.hb-search-no-result,
+.hb-search-error,
+.hb-accom-list {
+	display: none;
+}
+
+/* end search form */
+
+/* accommodation selection */
+
+.hb-accom-list .hb-accom-title {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.hb-accom-list .hb-accom {
+	border: 1px solid #ddd;
+	margin-bottom: 3px;
+	padding: 0 14px;
+}
+
+.hb-booking-nb-adults,
+.hb-booking-nb-children,
+.hb-accom-quantity,
+.hb-accom-selected-left-wrapper,
+.hb-accom-selected .hb-select-accom,
+.hb-accom-none-left .hb-select-accom,
+.hb-accom-selected-name {
+	display: none;
+}
+
+.hb-accom-selected .hb-accom-selected-name {
+	display: block;
+	font-weight: bold;
+}
+
+.hb-nb-accom-selected,
+.hb-accom-left,
+.hb-price-breakdown-section {
+	display: block;
+}
+
+.hb-price-breakdown-title {
+	display: block;
+	font-weight: bold;
+}
+
+.hb-accom-list .hb-accom-selected {
+	background: #f7f7f7;
+}
+
+.hb-price-breakdown-section.hb-fee-accom-included,
+.hb-price-breakdown-section.hb-fee-accom-final,
+.hb-price-breakdown-global-discount,
+.hb-accom-admin-search-type-single-accom-all:not(.hb-accom-available),
+.hb-accom-admin-search-type-single-accom-all:not(.hb-accom-suits-people) {
+	display: none;
+}
+
+.hb-intermediate-step-wrapper,
+.hb-options-form,
+.hb-select-accom-num-form {
+	display: none;
+}
+
+.hb-quantity-option label {
+	font-weight: normal;
+}
+
+.hb-quantity-option input,
+.hb-multiple-option {
+	margin-bottom: 5px;
+}
+
+.hb-multiple-option b {
+	display: inline-block;
+	margin-bottom: 7px;
+}
+
+/* end accommodation selection */
+
+/* booking details form */
+
+.hb-booking-details-form,
+.hb-accom-not-available-msg,
+#hb-resa-customer-details,
+.hb-resa-done-msg,
+.hb-resa-payment-msg {
+	display: none;
+}
+
+#hb-resa-customer-id {
+	margin-top: 10px;
+}
+
+.hb-loading-summary .spinner {
+	margin-right: 5px;
+}
+
+.hb-summary-total-price {
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 7px;
+}
+
+#hb-resa-additional-info label,
+#hb-resa-customer-details label {
+	display: table;
+}
+
+#hb-resa-additional-info label.hb-label-choice,
+#hb-resa-customer-details label.hb-label-choice {
+	display: inline;
+}
+
+#hb-resa-additional-info input[type="text"],
+#hb-resa-customer-details input[type="text"] {
+	max-width: 400px;
+}
+
+#hb-admin-comment {
+	height: 100px;
+}
+
+.hb-accom-not-available-msg {
+	margin: 15px 0 7px;
+}
+
+/* end booking details form */
+
+/* misc */
+
+.hb-admin-add-resa-section-title,
+.hb-additional-info-title {
+	font-size: 15px;
+	font-weight: bold;
+	margin-bottom: 7px;
+}
+
+.hb-additional-info-title {
+	margin-bottom: -7px;
+}
+
+.hb-admin-add-resa-section-title-fees {
+	display: none;
+}
+
+.hb-resa-summary-content {
+	line-height: 1.5;
+}
+
+.hb-summary-multi-accom-title,
+.hb-summary-accom-total-price {
+	font-weight: bold;
+}
+
+.hb-summary-accom-content {
+	margin-left: 10px;
+}
+
+/* end misc */

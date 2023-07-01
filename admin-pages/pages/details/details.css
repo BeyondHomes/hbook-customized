@@ -1,0 +1,105 @@
+#hb-form-add-field-top {
+	margin: -10px 0 20px;
+}
+
+#hb-form-add-field-bottom {
+	margin: 10px 0 0;
+}
+
+.hb-form-field {
+	background: #fff;
+	border: 2px dashed #ddd;
+	margin-bottom: 10px;
+	padding: 9px 15px 5px;
+	position: relative;
+	width: 330px;
+}
+
+.hb-form-field.hb-standard-field {
+	border-style: solid;
+}
+
+.hb-form-field p {
+	margin: 3px 0 7px;
+}
+
+.hb-form-field p.hb-form-field-name {
+	font-weight: bold;
+}
+
+.hb-form-field:not(.hb-standard-field) p.hb-form-field-name {
+	border-bottom: 1px solid #DDD;
+	margin-bottom: 12px;
+	padding-bottom: 10px;
+}
+
+.hb-form-field-name input {
+	width: 175px;
+}
+
+.hb-form-field-edit-name {
+	line-height: 0.8;
+	margin-left: 2px;
+}
+
+.hb-form-field-delete {
+	position: absolute;
+	right: 16px;
+	top: 8px;
+}
+
+.hb-form-field-attribute {
+	display: inline-block;
+	width: 130px;
+}
+
+.hb-standard-field .hb-form-additional-field-settings,
+.hb-standard-field .hb-form-field-edit-name,
+.hb-standard-field .hb-form-field-delete {
+	display: none;
+}
+
+.hb-form-field-delete.dashicons-no:before {
+	color: #FF6344;
+	font-size: 24px;
+}
+
+.hb-form-field-select {
+	display: inline-block;
+	margin: -3px 0 -2px;
+	width: 130px;
+}
+
+.hb-form-field-choices {
+	margin-top: 10px;
+}
+
+.hb-form-field-choices a {
+	margin-top: 0;
+}
+
+.hb-form-field-choices ul {
+	margin-top: 5px;
+}
+
+.hb-form-fields-choices-ul li {
+	background:#eee;
+	padding: 5px 5px 5px 8px;
+	position: relative;
+}
+
+.hb-form-fields-choices-ul input {
+	width: 175px;
+}
+
+.hb-form-field-remove-choice {
+	position: absolute;
+	right: 2px;
+	top: 4px;
+}
+
+.hb-form-field-edit-choice {
+	position: absolute;
+	right: 21px;
+	top: 3px;
+}

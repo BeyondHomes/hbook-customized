@@ -1,0 +1,23 @@
+.hb-fees-table .hb-table-head-data,
+.hb-fees-table .hb-table-data {
+	width: 21%;
+}
+
+.hb-fees-table .hb-table-data-action,
+.hb-fees-table .hb-table-head-data-action {
+	width: 16%;
+}
+
+.hb-fees-table select {
+	width: 100%;
+}
+
+p.fee-type {
+	border-top: 1px solid #e5e5e5;
+	margin: 7px 0 2px;
+	padding: 5px 0 2px;
+}
+
+p.amount-type {
+	margin-top: 0px;
+}

@@ -1,0 +1,357 @@
+#hb-resa-cal-wrapper {
+	border: 1px solid #e5e5e5;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	box-sizing: border-box;
+	margin-bottom: 25px;
+	padding: 5px;
+	position: relative;
+	width: 100%;
+}
+
+#hb-resa-cal-scroller {
+	position: relative;
+	width: 100%;
+	overflow: auto;
+}
+
+.hb-resa-cal-table {
+	background: #fff;
+	border: 1px solid #e5e5e5;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 14px;
+}
+
+.hb-resa-cal-table td {
+	padding: 0;
+}
+
+#hb-resa-days-table {
+	font-size: 13px;
+	left: 254px;
+	position: absolute;
+	table-layout: fixed;
+	top: 0;
+	width: 100%;
+}
+
+#hb-resa-cal-table td.hb-resa-day-label {
+	border-bottom: 2px solid #E5E5E5;
+	border-right: 1px solid #e5e5e5;
+	height: 80px;
+	text-align: center;
+	width: 40px;
+}
+
+.hb-resa-day-label span span {
+	display: block;
+	font-size: 12px;
+}
+
+#hb-resa-cal-table td.hb-resa-day-today {
+	background: aliceblue;
+	border-right-color: rgba(0,0,0,0.2);
+}
+
+#hb-resa-cal-table td.hb-resa-day-yesterday {
+	border-right-color: rgba(0,0,0,0.2);
+}
+
+#hb-resa-cal-table td.hb-resa-day-today-line {
+	border-right-color: rgba(0,0,0,0.2);
+}
+
+#hb-resa-cal-table {
+	left: 254px;
+	overflow: hidden;
+	position: absolute;
+	table-layout: fixed;
+	top: 0px;
+	width: 1400px;
+}
+
+#hb-resa-cal-table td {
+	border-bottom: 1px solid #E5E5E5;
+	height: 30px;
+	padding: 0;
+	text-align: center;
+	width: 20px;
+}
+
+#hb-resa-cal-table tr#hb-cal-days-bottom {
+	border-top: 2px solid #e5e5e5;
+}
+
+#hb-resa-accom-table {
+	position: relative;
+	width: 250px;
+	z-index: 99;
+}
+
+#hb-resa-accom-table td {
+	border-bottom: 1px solid #e5e5e5;
+	font-size: 13px;
+	height: 30px;
+	padding-left: 15px;
+	text-align: left;
+}
+
+#hb-resa-accom-table td.hb-accom-title {
+	font-size: 14px;
+}
+
+#hb-resa-accom-table td.hb-resa-cal-commands {
+	border-bottom: 2px solid #e5e5e5;
+	height: 80px;
+	text-align: center;
+}
+
+.hb-resa-cal-commands a.button {
+	line-height: 26px;
+	height: 28px;
+	padding: 0 10px 1px;
+}
+
+.hb-month-picker .hb-months {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.hb-month-picker-controls {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.hb-month-picker a.hb-month.button{
+	height: 28px;
+	margin-top: 4px;
+	margin-right: 3px;
+	width: 80px;
+}
+
+#hb-resa-accom-table td.hb-resa-cal-commands span.calendar-range {
+	display: block;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+#hb-resa-accom-table td#hb-commands-bottom {
+	border-top: 2px solid #e5e5e5;
+	position: relative;
+}
+
+#hb-resa-accom-table td.hb-resa-cal-commands div.hb-calendar-controls {
+	margin: 10px auto;
+	width: 150px;
+}
+
+#hb-resa-accom-table .hb-go-to-previous-two-weeks {
+	margin-right: 5px;
+}
+
+#hb-resa-accom-table .hb-display-calendar {
+	margin-right: 5px;
+}
+
+#hb-resa-accom-table .hb-display-calendar span.dashicons{
+	vertical-align: -4px;
+}
+
+.hb-month-picker {
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+	display: none;
+	height: 190px;
+	padding: 5px;
+	position: absolute;
+	width: 260px;
+	z-index: 109;
+}
+
+.hb-month-picker a.button {
+	margin-right: 5px;
+}
+
+/*
+hbio => resa-checkinout-day
+hbd => hb-resa-day
+hbdbc => hb-resa-day-blocked-comment
+hbdlcd => hb-resa-day-link-call-details
+hbdli => hb-resa-day-long-id
+hbdmn => hb-resa-multiple-nights
+hbdt => hb-resa-day-taken
+hbdtci => hb-resa-day-taken-checkin
+hbdtco => hb-resa-day-taken-checkout
+hbdb => hb-resa-day-blocked
+hbdcib => hb-resa-day-checkin-blocked
+hbdcob => hb-resa-day-checkout-blocked
+*/
+
+.hbio {
+	overflow: hidden;
+	position: relative;
+}
+
+.hbd {
+	border-right: 1px solid #e5e5e5;
+}
+
+.hbdbc,
+.hbdlcd {
+	color: #fff;
+	display: inline-block;
+	font-weight: 600;
+	position: relative;
+	text-align: left;
+	text-decoration: none;
+	white-space: nowrap;
+	z-index: 89;
+}
+
+.hbdbc {
+	cursor: default;
+	height: 25px;
+	line-height: 25px;
+}
+
+.hbdlcd:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.hbdli {
+	text-indent: -5px;
+}
+
+.hbdbc,
+.hbdmn {
+	overflow: hidden;
+}
+
+.hbdt {
+	color: #fff;
+}
+
+.hbdt a,
+.hbdbc {
+	text-align: center;
+}
+
+.hbdtci.hbdtco span {
+	background: #FFF;
+	display: block;
+	height: 36px;
+	left: 8px;
+	position: absolute;
+	top: -3px;
+	transform: rotate(30deg);
+	width: 2px;
+}
+
+.hbdtci div {
+	border-right: 20px solid;
+	border-top: 30px solid #fff;
+	height: 0;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 0;
+}
+
+.hbdtco div {
+	border-right: 20px solid #FFF;
+	border-top: 30px solid;
+	height: 0;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 0;
+}
+
+@-moz-document url-prefix() {
+	.hbdtci div {
+		border-right: 21px solid;
+		border-top: 32px solid #fff;
+	}
+	.hbdtco div {
+		border-right: 21px solid #FFF;
+		border-top: 32px solid;
+	}
+}
+
+.hbdb.hbdt {
+	background: #ffb5c3;
+	border-right: 1px solid #ffb5c3;
+}
+
+.hbdcib.hbdtci div {
+	border-right-color: #ffb5c3;
+}
+
+.hbdcob.hbdtco div {
+	border-top-color: #ffb5c3;
+}
+
+.hbdb.hbdtci div {
+	border-top-color: #ffb5c3;
+}
+
+.hbdb.hbdtco div {
+	border-right-color: #ffb5c3;
+}
+
+.hbdbc span {
+	background: #ffb5c3;
+}
+
+.hbd-new.hbdt {
+	background: #ffbb3e;
+	border-right: 1px solid #ffbb3e;
+}
+
+.hbdci-new.hbdtci div {
+	border-right-color: #ffbb3e;
+}
+
+.hbdco-new.hbdtco div {
+	border-top-color: #ffbb3e;
+}
+
+.hbd-new .hbdlcd {
+	background: #ffbb3e;
+}
+
+.hbd-processing.hbdt {
+	background: #ccc;
+	border-right: 1px solid #ccc;
+}
+
+.hbdci-processing.hbdtci div {
+	border-right-color: #ccc;
+}
+
+.hbdco-processing.hbdtco div {
+	border-top-color: #ccc;
+}
+
+.hbd-processing .hbdlcd {
+	background: #ccc;
+}
+
+.hbd-confirmed.hbdt {
+	background: #5dc807;
+	border-right: 1px solid #5dc807;
+}
+
+.hbdci-confirmed.hbdtci div {
+	border-right-color: #5dc807;
+}
+
+.hbdco-confirmed.hbdtco div {
+	border-top-color: #5dc807;
+}
+
+.hbd-confirmed .hbdlcd {
+	background: #5dc807;
+}

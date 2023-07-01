@@ -1,0 +1,964 @@
+msgctxt "Search"
+msgid "default_form_title"
+msgstr "Search"
+
+msgctxt "Check price and availability for the %accom_name"
+msgid "accom_page_form_title"
+msgstr "Check price and availability for the %accom_name"
+
+msgctxt "Check-in"
+msgid "check_in"
+msgstr "Check-in"
+
+msgctxt "Check-out"
+msgid "check_out"
+msgstr "Check-out"
+
+msgctxt "Adults"
+msgid "adults"
+msgstr "Adults"
+
+msgctxt "Children"
+msgid "children"
+msgstr "Children"
+
+msgctxt "Number of accommodation"
+msgid "accom_number"
+msgstr "Number of accommodation"
+
+msgctxt "Any"
+msgid "accom_number_any"
+msgstr "Any"
+
+msgctxt "Check-in:"
+msgid "chosen_check_in"
+msgstr "Check-in:"
+
+msgctxt "Check-out:"
+msgid "chosen_check_out"
+msgstr "Check-out:"
+
+msgctxt "Number of accommodation:"
+msgid "chosen_accom_number"
+msgstr "Number of accommodation:"
+
+msgctxt "(1 adult)"
+msgid "one_adult_chosen_in_accom_number"
+msgstr "(1 adult)"
+
+msgctxt "(%nb_adults adults)"
+msgid "chosen_adults_in_accom_number"
+msgstr "(%nb_adults adults)"
+
+msgctxt "(%nb_persons persons)"
+msgid "chosen_persons_in_accom_number"
+msgstr "(%nb_persons persons)"
+
+msgctxt "Adults:"
+msgid "chosen_adults"
+msgstr "Adults:"
+
+msgctxt "Children:"
+msgid "chosen_children"
+msgstr "Children:"
+
+msgctxt "Search"
+msgid "search_button"
+msgstr "Search"
+
+msgctxt "Change search"
+msgid "change_search_button"
+msgstr "Change search"
+
+msgctxt "Searching..."
+msgid "searching"
+msgstr "Searching..."
+
+msgctxt "Please enter a check-in date."
+msgid "no_check_in_date"
+msgstr "Please enter a check-in date."
+
+msgctxt "Please enter a check-out date."
+msgid "no_check_out_date"
+msgstr "Please enter a check-out date."
+
+msgctxt "Please enter a check-in date and a check-out date."
+msgid "no_check_in_out_date"
+msgstr "Please enter a check-in date and a check-out date."
+
+msgctxt "Please select the number of adults."
+msgid "no_adults"
+msgstr "Please select the number of adults."
+
+msgctxt "Please select the number of children."
+msgid "no_children"
+msgstr "Please select the number of children."
+
+msgctxt "Please select the number of adults and the number of children."
+msgid "no_adults_children"
+msgstr "Please select the number of adults and the number of children."
+
+msgctxt "The check-in date is not valid."
+msgid "invalid_check_in_date"
+msgstr "The check-in date is not valid."
+
+msgctxt "The check-out date is not valid."
+msgid "invalid_check_out_date"
+msgstr "The check-out date is not valid."
+
+msgctxt "The check-in date and the check-out date are not valid."
+msgid "invalid_check_in_out_date"
+msgstr "The check-in date and the check-out date are not valid."
+
+msgctxt "The check-in date can not be in the past."
+msgid "check_in_date_past"
+msgstr "The check-in date can not be in the past."
+
+msgctxt "The check-in date can not be before the %date."
+msgid "check_in_date_before_date"
+msgstr "The check-in date can not be before the %date."
+
+msgctxt "The check-out date can not be after the %date."
+msgid "check_out_date_after_date"
+msgstr "The check-out date can not be after the %date."
+
+msgctxt "The check-out date must be after the check-in date."
+msgid "check_out_before_check_in"
+msgstr "The check-out date must be after the check-in date."
+
+msgctxt "Check-in is allowed only on specific days (%check_in_days)."
+msgid "check_in_day_not_allowed"
+msgstr "Check-in is allowed only on specific days (%check_in_days)."
+
+msgctxt "Check-in is allowed only on certain days. Please change your check-in date."
+msgid "check_in_day_not_allowed_seasonal"
+msgstr "Check-in is allowed only on certain days. Please change your check-in date."
+
+msgctxt "Check-out is allowed only on specific days (%check_out_days)."
+msgid "check_out_day_not_allowed"
+msgstr "Check-out is allowed only on specific days (%check_out_days)."
+
+msgctxt "Check-out is allowed only on certain days. Please change your check-out date."
+msgid "check_out_day_not_allowed_seasonal"
+msgstr "Check-out is allowed only on certain days. Please change your check-out date."
+
+msgctxt "A %nb_nights-nights minimum stay policy applies. Please modify your dates."
+msgid "minimum_stay"
+msgstr "A %nb_nights-nights minimum stay policy applies. Please modify your dates."
+
+msgctxt "A minimum stay policy applies. Please modify your dates to extend your stay."
+msgid "minimum_stay_seasonal"
+msgstr "A minimum stay policy applies. Please modify your dates to extend your stay."
+
+msgctxt "A %nb_nights-nights maximum stay policy applies. Please modify your dates."
+msgid "maximum_stay"
+msgstr "A %nb_nights-nights maximum stay policy applies. Please modify your dates."
+
+msgctxt "A maximum stay policy applies. Please modify your dates to shorten your stay."
+msgid "maximum_stay_seasonal"
+msgstr "A maximum stay policy applies. Please modify your dates to shorten your stay."
+
+msgctxt "Guests check-in on %check_in_day must check-out on specific days (%check_out_days)."
+msgid "check_out_day_not_allowed_for_check_in_day"
+msgstr "Guests check-in on %check_in_day must check-out on specific days (%check_out_days)."
+
+msgctxt "With this check-in date check-out is allowed only on certain days. Please change your check-in or check-out dates."
+msgid "check_out_day_not_allowed_for_check_in_day_seasonal"
+msgstr "With this check-in date check-out is allowed only on certain days. Please change your check-in or check-out dates."
+
+msgctxt "A %nb_nights-night minimum stay is required for booking starting on %check_in_day."
+msgid "minimum_stay_for_check_in_day"
+msgstr "A %nb_nights-night minimum stay is required for booking starting on %check_in_day."
+
+msgctxt "With this check-in date a minimum stay policy applies."
+msgid "minimum_stay_for_check_in_day_seasonal"
+msgstr "With this check-in date a minimum stay policy applies."
+
+msgctxt "A %nb_nights-night maximum stay applies for booking starting on %check_in_day."
+msgid "maximum_stay_for_check_in_day"
+msgstr "A %nb_nights-night maximum stay applies for booking starting on %check_in_day."
+
+msgctxt "With this check-in date a maximum stay policy applies."
+msgid "maximum_stay_for_check_in_day_seasonal"
+msgstr "With this check-in date a maximum stay policy applies."
+
+msgctxt "Unfortunately the %accom_name can not suit %persons_nb persons."
+msgid "accom_can_not_suit_nb_people"
+msgstr "Unfortunately the %accom_name can not suit %persons_nb persons."
+
+msgctxt "Unfortunately we could not find accommodation to suit %persons_nb persons."
+msgid "no_accom_can_suit_nb_people"
+msgstr "Unfortunately we could not find accommodation to suit %persons_nb persons."
+
+msgctxt "View all available accommodation for %persons_nb persons."
+msgid "view_accom_for_persons"
+msgstr "View all available accommodation for %persons_nb persons."
+
+msgctxt "Unfortunately the %accom_name can not suit one person only."
+msgid "accom_can_not_suit_one_person"
+msgstr "Unfortunately the %accom_name can not suit one person only."
+
+msgctxt "Unfortunately we could not find any accommodation that would suit one person only."
+msgid "no_accom_can_suit_one_person"
+msgstr "Unfortunately we could not find any accommodation that would suit one person only."
+
+msgctxt "View all available accommodation for one person."
+msgid "view_accom_for_one_person"
+msgstr "View all available accommodation for one person."
+
+msgctxt "Unfortunately we could not find accommodation for the dates you entered."
+msgid "no_accom_at_chosen_dates"
+msgstr "Unfortunately we could not find accommodation for the dates you entered."
+
+msgctxt "The %accom_name is not available at the chosen dates."
+msgid "accom_not_available_at_chosen_dates"
+msgstr "The %accom_name is not available at the chosen dates."
+
+msgctxt "We only have %available_accom_nb %accom_name."
+msgid "only_x_accom"
+msgstr "We only have %available_accom_nb %accom_name."
+
+msgctxt "There are only %available_accom_nb %accom_name available at the chosen dates."
+msgid "only_x_accom_available_at_chosen_dates"
+msgstr "There are only %available_accom_nb %accom_name available at the chosen dates."
+
+msgctxt "We do not have enough %accom_name to suit %persons_nb persons."
+msgid "not_enough_accom_for_people"
+msgstr "We do not have enough %accom_name to suit %persons_nb persons."
+
+msgctxt "We do not have enough %accom_name to suit %persons_nb persons at the chosen dates."
+msgid "not_enough_accom_for_people_at_chosen_dates"
+msgstr "We do not have enough %accom_name to suit %persons_nb persons at the chosen dates."
+
+msgctxt "View all available accommodation at the chosen dates."
+msgid "view_accom_at_chosen_date"
+msgstr "View all available accommodation at the chosen dates."
+
+msgctxt "We have found 1 type of accommodation that suit your needs."
+msgid "one_type_of_accommodation_found"
+msgstr "We have found 1 type of accommodation that suit your needs."
+
+msgctxt "We have found %nb_types types of accommodation that suit your needs."
+msgid "several_types_of_accommodation_found"
+msgstr "We have found %nb_types types of accommodation that suit your needs."
+
+msgctxt "We have found the following accommodation."
+msgid "multi_accom_intro"
+msgstr "We have found the following accommodation."
+
+msgctxt "More than one accommodation is needed to accommodate your stay. Please check our suggestion below."
+msgid "accom_suggestion_for_single_accom_search"
+msgstr "More than one accommodation is needed to accommodate your stay. Please check our suggestion below."
+
+msgctxt "We could not find any result matching your search criteria. You can change your search or check our suggestion below."
+msgid "accom_suggestion_for_multiple_accom_search"
+msgstr "We could not find any result matching your search criteria. You can change your search or check our suggestion below."
+
+msgctxt "Search for a specific number of accommodation"
+msgid "search_specific_accom_number_link"
+msgstr "Search for a specific number of accommodation"
+
+msgctxt "Select your accommodation"
+msgid "select_accom_title"
+msgstr "Select your accommodation"
+
+msgctxt "Select accommodation %n"
+msgid "multi_accom_select_accom_n"
+msgstr "Select accommodation %n"
+
+msgctxt "Accommodation %n"
+msgid "multi_accom_accom_n"
+msgstr "Accommodation %n"
+
+msgctxt "Please select an accommodation before continuing."
+msgid "multi_accom_no_accom_selected"
+msgstr "Please select an accommodation before continuing."
+
+msgctxt "The %accom_name is available at the chosen dates."
+msgid "accom_available_at_chosen_dates"
+msgstr "The %accom_name is available at the chosen dates."
+
+msgctxt "price for 1 night"
+msgid "price_for_1_night"
+msgstr "price for 1 night"
+
+msgctxt "price for %nb_nights nights"
+msgid "price_for_several_nights"
+msgstr "price for %nb_nights nights"
+
+msgctxt "View price breakdown"
+msgid "view_price_breakdown"
+msgstr "View price breakdown"
+
+msgctxt "Hide price breakdown"
+msgid "hide_price_breakdown"
+msgstr "Hide price breakdown"
+
+msgctxt "nights"
+msgid "price_breakdown_nights_several"
+msgstr "nights"
+
+msgctxt "night"
+msgid "price_breakdown_night_one"
+msgstr "night"
+
+msgctxt "x %nb_nights-night"
+msgid "price_breakdown_multiple_nights"
+msgstr "x %nb_nights-night"
+
+msgctxt "Accommodation price:"
+msgid "price_breakdown_accom_price"
+msgstr "Accommodation price:"
+
+msgctxt "Extra adults (%nb_adults):"
+msgid "price_breakdown_extra_adults_several"
+msgstr "Extra adults (%nb_adults):"
+
+msgctxt "Extra adult:"
+msgid "price_breakdown_extra_adult_one"
+msgstr "Extra adult:"
+
+msgctxt "Adults (%nb_adults):"
+msgid "price_breakdown_adults_several"
+msgstr "Adults (%nb_adults):"
+
+msgctxt "Adult:"
+msgid "price_breakdown_adult_one"
+msgstr "Adult:"
+
+msgctxt "Extra children (%nb_children):"
+msgid "price_breakdown_extra_children_several"
+msgstr "Extra children (%nb_children):"
+
+msgctxt "Extra child:"
+msgid "price_breakdown_extra_child_one"
+msgstr "Extra child:"
+
+msgctxt "Children (%nb_children):"
+msgid "price_breakdown_children_several"
+msgstr "Children (%nb_children):"
+
+msgctxt "Child:"
+msgid "price_breakdown_child_one"
+msgstr "Child:"
+
+msgctxt "From %from_date to %to_date"
+msgid "price_breakdown_dates"
+msgstr "From %from_date to %to_date"
+
+msgctxt "Discount:"
+msgid "price_breakdown_discount"
+msgstr "Discount:"
+
+msgctxt "adults"
+msgid "fee_details_adults_several"
+msgstr "adults"
+
+msgctxt "adult"
+msgid "fee_details_adult_one"
+msgstr "adult"
+
+msgctxt "children"
+msgid "fee_details_children_several"
+msgstr "children"
+
+msgctxt "child"
+msgid "fee_details_child_one"
+msgstr "child"
+
+msgctxt "persons"
+msgid "fee_details_persons"
+msgstr "persons"
+
+msgctxt "Select this accommodation"
+msgid "select_accom_button"
+msgstr "Select this accommodation"
+
+msgctxt "%arrow Previous"
+msgid "previous_step_button"
+msgstr "%arrow Previous"
+
+msgctxt "Next %arrow"
+msgid "next_step_button"
+msgstr "Next %arrow"
+
+msgctxt "View this accommodation"
+msgid "view_accom_button"
+msgstr "View this accommodation"
+
+msgctxt "This accommodation is selected."
+msgid "selected_accom"
+msgstr "This accommodation is selected."
+
+msgctxt "There are only %available_accom_nb %accom_name left!"
+msgid "accom_left"
+msgstr "There are only %available_accom_nb %accom_name left!"
+
+msgctxt "There is only one %accom_name left!"
+msgid "one_accom_left"
+msgstr "There is only one %accom_name left!"
+
+msgctxt "There are no %accom_name left!"
+msgid "no_accom_left"
+msgstr "There are no %accom_name left!"
+
+msgctxt "You have already selected %selected_accom_nb %accom_name."
+msgid "nb_accom_selected"
+msgstr "You have already selected %selected_accom_nb %accom_name."
+
+msgctxt "Fees:"
+msgid "price_breakdown_fees"
+msgstr "Fees:"
+
+msgctxt "Select your accommodation number"
+msgid "select_accom_num_title"
+msgstr "Select your accommodation number"
+
+msgctxt ""
+msgid "select_accom_num_text"
+msgstr ""
+
+msgctxt "Select accommodation number"
+msgid "select_accom_num_select_title"
+msgstr "Select accommodation number"
+
+msgctxt "%accom_name number %accom_num"
+msgid "select_accom_num_label"
+msgstr "%accom_name number %accom_num"
+
+msgctxt "Select your options"
+msgid "select_options_title"
+msgstr "Select your options"
+
+msgctxt "Global options"
+msgid "global_options_title"
+msgstr "Global options"
+
+msgctxt "Extra services:"
+msgid "chosen_options"
+msgstr "Extra services:"
+
+msgctxt "This accommodation does not have any extra services."
+msgid "accom_has_no_extras"
+msgstr "This accommodation does not have any extra services."
+
+msgctxt "(%price%each%max)"
+msgid "price_option"
+msgstr "(%price%each%max)"
+
+msgctxt "(free)"
+msgid "free_option"
+msgstr "(free)"
+
+msgctxt "each"
+msgid "each_option"
+msgstr "each"
+
+msgctxt " - Maximum: %max_value"
+msgid "max_option"
+msgstr " - Maximum: %max_value"
+
+msgctxt "Options total price:"
+msgid "total_options_price"
+msgstr "Options total price:"
+
+msgctxt "Enter your details"
+msgid "details_form_title"
+msgstr "Enter your details"
+
+msgctxt ""
+msgid "first_name"
+msgstr ""
+
+msgctxt ""
+msgid "last_name"
+msgstr ""
+
+msgctxt ""
+msgid "email"
+msgstr ""
+
+msgctxt ""
+msgid "phone"
+msgstr ""
+
+msgctxt ""
+msgid "address_1"
+msgstr ""
+
+msgctxt ""
+msgid "address_2"
+msgstr ""
+
+msgctxt ""
+msgid "city"
+msgstr ""
+
+msgctxt ""
+msgid "state_province"
+msgstr ""
+
+msgctxt ""
+msgid "zip_code"
+msgstr ""
+
+msgctxt ""
+msgid "country"
+msgstr ""
+
+msgctxt "Accept our policies for this reservation"
+msgid "terms_and_cond_title"
+msgstr "Accept our policies for this reservation"
+
+msgctxt "I have read and I accept the terms and conditions for this booking."
+msgid "terms_and_cond_text"
+msgstr "I have read and I accept the terms and conditions for this booking."
+
+msgctxt "Please confirm you have read and you accept the terms and conditions by checking the box."
+msgid "terms_and_cond_error"
+msgstr "Please confirm you have read and you accept the terms and conditions by checking the box."
+
+msgctxt "I have read and I accept the privacy policy and I give my consent for the information above to be collected."
+msgid "privacy_policy_text"
+msgstr "I have read and I accept the privacy policy and I give my consent for the information above to be collected."
+
+msgctxt "Please confirm you have read and you accept the privacy policy and you give your consent for the information above to be collected by checking the box."
+msgid "privacy_policy_error"
+msgstr "Please confirm you have read and you accept the privacy policy and you give your consent for the information above to be collected by checking the box."
+
+msgctxt "Please double check your reservation details before clicking on "Book now"."
+msgid "txt_before_book_now_button"
+msgstr "Please double check your reservation details before clicking on "Book now"."
+
+msgctxt "Book now!"
+msgid "book_now_button"
+msgstr "Book now!"
+
+msgctxt "Unfortunately the accommodation you have selected is no longer available. Please select another accommodation or start searching again."
+msgid "accom_no_longer_available"
+msgstr "Unfortunately the accommodation you have selected is no longer available. Please select another accommodation or start searching again."
+
+msgctxt "The %accom_name number %accom_num is no longer available. Please select another accommodation number."
+msgid "accom_num_no_longer_available"
+msgstr "The %accom_name number %accom_num is no longer available. Please select another accommodation number."
+
+msgctxt "Processing..."
+msgid "processing"
+msgstr "Processing..."
+
+msgctxt "Coupon"
+msgid "coupons_section_title"
+msgstr "Coupon"
+
+msgctxt "If you have a coupon code enter it in the field below and click on apply."
+msgid "coupons_text"
+msgstr "If you have a coupon code enter it in the field below and click on apply."
+
+msgctxt "Apply"
+msgid "coupons_button"
+msgstr "Apply"
+
+msgctxt "Your coupon code is valid! We have applied a %amount discount!"
+msgid "valid_coupon"
+msgstr "Your coupon code is valid! We have applied a %amount discount!"
+
+msgctxt "This coupon code is not valid."
+msgid "invalid_coupon"
+msgstr "This coupon code is not valid."
+
+msgctxt "This coupon code is no longer valid."
+msgid "coupon_no_longer_valid"
+msgstr "This coupon code is no longer valid."
+
+msgctxt "Please enter a coupon code."
+msgid "no_coupon"
+msgstr "Please enter a coupon code."
+
+msgctxt "Loading summary..."
+msgid "summary_loading"
+msgstr "Loading summary..."
+
+msgctxt "Reservation summary"
+msgid "summary_title"
+msgstr "Reservation summary"
+
+msgctxt "Number of nights:"
+msgid "number_of_nights"
+msgstr "Number of nights:"
+
+msgctxt "Accommodation:"
+msgid "summary_accommodation"
+msgstr "Accommodation:"
+
+msgctxt "Accommodation price:"
+msgid "summary_accom_price"
+msgstr "Accommodation price:"
+
+msgctxt "Options price:"
+msgid "summary_options_price"
+msgstr "Options price:"
+
+msgctxt "Global options price:"
+msgid "summary_global_options_price"
+msgstr "Global options price:"
+
+msgctxt "Price includes:"
+msgid "summary_included_fees"
+msgstr "Price includes:"
+
+msgctxt "Coupon amount:"
+msgid "summary_coupon_amount"
+msgstr "Coupon amount:"
+
+msgctxt "Discount amount:"
+msgid "summary_discount_amount"
+msgstr "Discount amount:"
+
+msgctxt "Price:"
+msgid "summary_accom_total_price"
+msgstr "Price:"
+
+msgctxt "Total price:"
+msgid "summary_price"
+msgstr "Total price:"
+
+msgctxt "Deposit amount:"
+msgid "summary_deposit"
+msgstr "Deposit amount:"
+
+msgctxt "Security bond amount:"
+msgid "summary_security_bond"
+msgstr "Security bond amount:"
+
+msgctxt "This will be refunded after your stay minus possible damage costs."
+msgid "summary_security_bond_explanation"
+msgstr "This will be refunded after your stay minus possible damage costs."
+
+msgctxt "Thanks for your reservation! We have just sent you a confirmation email at %customer_email with the following details:"
+msgid "thanks_message_1"
+msgstr "Thanks for your reservation! We have just sent you a confirmation email at %customer_email with the following details:"
+
+msgctxt "See you soon!"
+msgid "thanks_message_2"
+msgstr "See you soon!"
+
+msgctxt "Thanks for your reservation! We confirm that we have received your payment and have just sent you a confirmation email at %customer_email with the following details:"
+msgid "thanks_message_payment_done_1"
+msgstr "Thanks for your reservation! We confirm that we have received your payment and have just sent you a confirmation email at %customer_email with the following details:"
+
+msgctxt "See you soon!"
+msgid "thanks_message_payment_done_2"
+msgstr "See you soon!"
+
+msgctxt "Payment"
+msgid "payment_section_title"
+msgstr "Payment"
+
+msgctxt "Select your payment type:"
+msgid "payment_type"
+msgstr "Select your payment type:"
+
+msgctxt "On arrival or offline payment"
+msgid "payment_type_offline"
+msgstr "On arrival or offline payment"
+
+msgctxt "Leave credit card details (the card will not be charged now)"
+msgid "payment_type_store_credit_card"
+msgstr "Leave credit card details (the card will not be charged now)"
+
+msgctxt "Pay deposit now"
+msgid "payment_type_deposit"
+msgstr "Pay deposit now"
+
+msgctxt "Pay total price now"
+msgid "payment_type_full"
+msgstr "Pay total price now"
+
+msgctxt "You will pay for your stay at a later stage. The total price is %full_amount"
+msgid "payment_type_explanation_offline"
+msgstr "You will pay for your stay at a later stage. The total price is %full_amount"
+
+msgctxt "We ask for your credit card details but we will not charge it now."
+msgid "payment_type_explanation_store_credit_card"
+msgstr "We ask for your credit card details but we will not charge it now."
+
+msgctxt "You will be charged %deposit_amount"
+msgid "payment_type_explanation_deposit"
+msgstr "You will be charged %deposit_amount"
+
+msgctxt "You will be charged %full_amount"
+msgid "payment_type_explanation_full"
+msgstr "You will be charged %full_amount"
+
+msgctxt "Select your payment method:"
+msgid "payment_method"
+msgstr "Select your payment method:"
+
+msgctxt "PayPal"
+msgid "paypal_payment_method_label"
+msgstr "PayPal"
+
+msgctxt "Click on Book Now to confirm your reservation. You will be redirected to PayPal to complete your payment."
+msgid "paypal_text_before_form"
+msgstr "Click on Book Now to confirm your reservation. You will be redirected to PayPal to complete your payment."
+
+msgctxt "Secured payments by"
+msgid "paypal_bottom_text_line_1"
+msgstr "Secured payments by"
+
+msgctxt "You can pay with your credit card"
+msgid "paypal_bottom_text_line_2"
+msgstr "You can pay with your credit card"
+
+msgctxt "%accom_name%deposit_txt - %nights_txt (from %check_in_date to %check_out_date) - %adults_txt%children_txt"
+msgid "external_payment_txt_desc"
+msgstr "%accom_name%deposit_txt - %nights_txt (from %check_in_date to %check_out_date) - %adults_txt%children_txt"
+
+msgctxt " (deposit)"
+msgid "external_payment_txt_deposit"
+msgstr " (deposit)"
+
+msgctxt "1 night"
+msgid "external_payment_txt_one_night"
+msgstr "1 night"
+
+msgctxt "%nb_nights nights"
+msgid "external_payment_txt_several_nights"
+msgstr "%nb_nights nights"
+
+msgctxt "1 adult"
+msgid "external_payment_txt_one_adult"
+msgstr "1 adult"
+
+msgctxt "%nb_adults adults"
+msgid "external_payment_txt_several_adults"
+msgstr "%nb_adults adults"
+
+msgctxt " - 1 child"
+msgid "external_payment_txt_one_child"
+msgstr " - 1 child"
+
+msgctxt " - %nb_children children"
+msgid "external_payment_txt_several_children"
+msgstr " - %nb_children children"
+
+msgctxt "Credit or debit card"
+msgid "stripe_payment_method_label"
+msgstr "Credit or debit card"
+
+msgctxt "Please enter your credit cards details below."
+msgid "stripe_text_before_form"
+msgstr "Please enter your credit cards details below."
+
+msgctxt "Could not process the payment (%error_msg)."
+msgid "stripe_processing_error"
+msgstr "Could not process the payment (%error_msg)."
+
+msgctxt "Safe and secure payments SSL encrypted"
+msgid "stripe_text_bottom_form"
+msgstr "Safe and secure payments SSL encrypted"
+
+msgctxt "Required field."
+msgid "required_field"
+msgstr "Required field."
+
+msgctxt "Invalid email."
+msgid "invalid_email"
+msgstr "Invalid email."
+
+msgctxt "This field can only contain numbers."
+msgid "invalid_number"
+msgstr "This field can only contain numbers."
+
+msgctxt "There was a connection error. Please try again."
+msgid "connection_error"
+msgstr "There was a connection error. Please try again."
+
+msgctxt "Your session has timed out. Please start a new booking request."
+msgid "timeout_error"
+msgstr "Your session has timed out. Please start a new booking request."
+
+msgctxt "Error: season is not defined for %night."
+msgid "error_season_not_defined"
+msgstr "Error: season is not defined for %night."
+
+msgctxt "Error: please add a rate for accommodation named %accom_name and season named %season_name."
+msgid "error_rate_not_defined"
+msgstr "Error: please add a rate for accommodation named %accom_name and season named %season_name."
+
+msgctxt "Occupied"
+msgid "legend_occupied"
+msgstr "Occupied"
+
+msgctxt "Past"
+msgid "legend_past"
+msgstr "Past"
+
+msgctxt "Closed"
+msgid "legend_closed"
+msgstr "Closed"
+
+msgctxt "Available"
+msgid "legend_available"
+msgstr "Available"
+
+msgctxt "Before check-in day"
+msgid "legend_before_check_in"
+msgstr "Before check-in day"
+
+msgctxt "Not available for check-in"
+msgid "legend_no_check_in"
+msgstr "Not available for check-in"
+
+msgctxt "Not available for check-out"
+msgid "legend_no_check_out"
+msgstr "Not available for check-out"
+
+msgctxt "Available for check-in only"
+msgid "legend_check_in_only"
+msgstr "Available for check-in only"
+
+msgctxt "Available for check-out only"
+msgid "legend_check_out_only"
+msgstr "Available for check-out only"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night minimum-stay requirement)"
+msgid "legend_no_check_out_min_stay"
+msgstr "Not available for check-out (due to the %nb_nights-night minimum-stay requirement)"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night maximum-stay requirement)"
+msgid "legend_no_check_out_max_stay"
+msgstr "Not available for check-out (due to the %nb_nights-night maximum-stay requirement)"
+
+msgctxt "Chosen check-in day"
+msgid "legend_check_in"
+msgstr "Chosen check-in day"
+
+msgctxt "Chosen check-out day"
+msgid "legend_check_out"
+msgstr "Chosen check-out day"
+
+msgctxt "Select a check-in date."
+msgid "legend_select_check_in"
+msgstr "Select a check-in date."
+
+msgctxt "Select a check-out date."
+msgid "legend_select_check_out"
+msgstr "Select a check-out date."
+
+msgctxt "Season"
+msgid "table_rates_season"
+msgstr "Season"
+
+msgctxt "From"
+msgid "table_rates_from"
+msgstr "From"
+
+msgctxt "To"
+msgid "table_rates_to"
+msgstr "To"
+
+msgctxt "Nights"
+msgid "table_rates_nights"
+msgstr "Nights"
+
+msgctxt "Price"
+msgid "table_rates_price"
+msgstr "Price"
+
+msgctxt "per night"
+msgid "table_rates_per_night"
+msgstr "per night"
+
+msgctxt "All nights"
+msgid "table_rates_all_nights"
+msgstr "All nights"
+
+msgctxt "for a %nb_nights-night stay"
+msgid "table_rates_for_night_stay"
+msgstr "for a %nb_nights-night stay"
+
+msgctxt "Description"
+msgid "table_invoice_head_description"
+msgstr "Description"
+
+msgctxt "Amount"
+msgid "table_invoice_head_amount"
+msgstr "Amount"
+
+msgctxt "Accommodation"
+msgid "table_invoice_accom_title"
+msgstr "Accommodation"
+
+msgctxt "Discount"
+msgid "table_invoice_discount"
+msgstr "Discount"
+
+msgctxt "Surcharge"
+msgid "table_invoice_surcharge"
+msgstr "Surcharge"
+
+msgctxt "Accommodation subtotal"
+msgid "table_invoice_accom_subtotal"
+msgstr "Accommodation subtotal"
+
+msgctxt "Accommodation total"
+msgid "table_invoice_accom_total"
+msgstr "Accommodation total"
+
+msgctxt "%accom_name total"
+msgid "table_invoice_accom_extras_total"
+msgstr "%accom_name total"
+
+msgctxt "Global extra services"
+msgid "table_invoice_global_extras_title"
+msgstr "Global extra services"
+
+msgctxt "Extra services"
+msgid "table_invoice_extras_title"
+msgstr "Extra services"
+
+msgctxt "Extra services subtotal"
+msgid "table_invoice_extras_subtotal"
+msgstr "Extra services subtotal"
+
+msgctxt "Extra services total"
+msgid "table_invoice_extras_total"
+msgstr "Extra services total"
+
+msgctxt "Global extra services total"
+msgid "table_invoice_global_extras_total"
+msgstr "Global extra services total"
+
+msgctxt "Coupon"
+msgid "table_invoice_coupon"
+msgstr "Coupon"
+
+msgctxt "Subtotal"
+msgid "table_invoice_subtotal"
+msgstr "Subtotal"
+
+msgctxt "Total"
+msgid "table_invoice_total"
+msgstr "Total"
+
+msgctxt "Including"
+msgid "table_invoice_included_fee"
+msgstr "Including"
+
+msgctxt "price starting at %price"
+msgid "accom_starting_price"
+msgstr "price starting at %price"
+
+msgctxt "per night"
+msgid "accom_starting_price_duration_unit"
+msgstr "per night"
+
+msgctxt "Book now!"
+msgid "accom_book_now_button"
+msgstr "Book now!"
+
+msgctxt "Check details"
+msgid "view_accom_details_button"
+msgstr "Check details"
+

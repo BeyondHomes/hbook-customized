@@ -1,0 +1,26 @@
+.hb-table-data,
+.hb-table-head-data {
+	width: 14%;
+}
+
+.hb-data-doc-content {
+	width: 72%;
+}
+
+.hb-doc-textarea {
+	height: 179px;
+	max-width: none;
+	width: 100%;
+}
+
+.hb-data-doc-lang {
+	display: none;
+}
+
+.hb-doc-multiple-lang .hb-data-doc-content {
+	width: 58%;
+}
+
+.hb-doc-multiple-lang .hb-data-doc-lang {
+	display: block;
+}

@@ -1,0 +1,84 @@
+p.hb-check-dates-wrapper,
+p.hb-people-wrapper,
+p.hb-search-button-wrapper {
+	float: right;
+	margin-left: 2%;
+	margin-right: 0;
+}
+
+p.hb-search-button-wrapper {
+	margin-left: 0;
+}
+
+.hb-vertical-search-form .hb-searched-summary p,
+.hb-vertical-search-form .hb-check-dates-wrapper,
+.hb-vertical-search-form .hb-people-wrapper,
+.hb-vertical-search-form .hb-search-button-wrapper {
+	margin-left: 0;
+}
+
+.hb-vertical-search-form:not(.hb-search-form-no-children) p.hb-people-wrapper {
+	float: right;
+}
+
+.hb-vertical-search-form:not(.hb-search-form-no-children) p.hb-people-wrapper-adults {
+	margin-left: 4%;
+	margin-right: 0;
+}
+
+p.hb-booking-searching {
+	background: url(loader-2x.gif) no-repeat right center;
+	background-size: 24px 24px;
+	padding-right: 30px;
+}
+
+.hb-accom-img {
+	float: left;
+	margin: 0 15px 15px 0;
+}
+
+.hb-accom-price {
+	float: right;
+	margin-left: 8px;
+	margin-right: 0;
+}
+
+.hb-accom-price-caption {
+	float: right;
+}
+
+.hb-select-accom,
+.hb-view-accom {
+	float: right;
+}
+
+p.hb-select-accom {
+	margin-left: 15px;
+	margin-right: 0;
+}
+
+.hb-column-half {
+	float: right;
+	width: 48%;
+}
+
+.hb-column-third {
+	float: right;
+	width: 30.66%;
+}
+
+.hb-column-half,
+.hb-column-third {
+	margin-left: 4%;
+	margin-right: 0;
+}
+
+.hb-column-half:last-of-type,
+.hb-column-third:last-of-type {
+	margin-left: 0;
+}
+
+.hb-accom-listing-thumb {
+	float: right;
+	margin: 0 0 15px 15px;
+}

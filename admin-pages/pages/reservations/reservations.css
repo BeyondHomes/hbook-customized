@@ -1,0 +1,524 @@
+.hb-resa-table thead td {
+	font-size: 14px;
+}
+
+.hb-resa-table {
+	table-layout: fixed;
+}
+
+.hb-resa-id-column {
+	white-space: nowrap;
+	width: 3%;
+}
+
+.hb-resa-id-column input[type="checkbox"] {
+	margin: 4px 0 0 0;
+}
+
+.hb-resa-status-column {
+	width: 9%;
+}
+
+.hb-resa-check-in-out-column {
+	width: 8%;
+}
+
+.hb-resa-accom-column {
+	width: 10%;
+}
+
+.hb-resa-info-column {
+	width: 14%;
+}
+
+.hb-resa-table-has-extras .hb-resa-info-column {
+	width: 10%;
+}
+
+.hb-resa-extras-column {
+	width: 14%;
+}
+
+.hb-resa-comment-column {
+	width: 18%;
+}
+
+.hb-resa-table-has-extras .hb-resa-comment-column {
+	width: 13%;
+}
+
+.hb-resa-customer-column {
+	position: relative;
+	width: 18%;
+}
+
+.hb-resa-table-has-extras .hb-resa-customer-column {
+	width: 13%;
+}
+
+.hb-resa-price-column {
+	width: 9%;
+}
+
+.hb-resa-received-column {
+	width: 8%;
+}
+
+.hb-resa-actions-column {
+	position: relative;
+	width: 3%;
+}
+
+.widefat td.hb-resa-actions-column {
+	padding: 5px 0 10px;
+}
+
+.hb-resa-actions-column .dashicons {
+	display: block;
+	width: 100%;
+}
+
+.hb-resa-table a:focus {
+	box-shadow: none;
+}
+
+.hb-resa-more-info-toggle {
+	font-size: 11px;
+}
+
+.hb-less-info-link,
+.hb-less-info-toggle-link .hb-more-info-link {
+	display: none;
+}
+
+.hb-less-info-toggle-link .hb-less-info-link {
+	display: inline;
+}
+
+.hb-resa-more-info-content {
+	display: none;
+}
+
+.hb-resa-status,
+.hb-payment-status {
+	border-radius: 5px;
+	color: #fff;
+	cursor: default;
+	display: inline-block;
+	font-weight: bold;
+	max-width: 90%;
+	overflow: hidden;
+	padding: 6px 9px 6px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.hb-payment-status {
+	margin-top: 5px;
+}
+
+.hb-resa-new,
+.hb-resa-pending,
+.hb-resa-not-fully-paid {
+	background: #ffbb3e;
+}
+
+.hb-resa-processing {
+	background: #ccc;
+}
+
+.hb-resa-confirmed,
+.hb-resa-paid {
+	background: #5dc807;
+}
+
+.hb-resa-unpaid,
+.hb-resa-cancelled {
+	background: #ff6344;
+}
+
+.hb-resa-table .dashicons-yes:before {
+	color: #5dc807;
+	font-size: 27px;
+}
+
+.hb-resa-table .dashicons-no:before {
+	color: #ff6344;
+	font-size: 24px;
+}
+
+.hb-resa-table .payment-action {
+	color: #FF943E;
+	font-size: 16px;
+	font-weight: bold;
+	vertical-align: sub;
+}
+
+.hb-resa-parent.hb-resa-added td:not(.hb-email-logs-td),
+.hb-resa-child.hb-resa-added td.hb-resa-id-column,
+.hb-resa-added td {
+	background: #C7F1A6;
+}
+
+.hb-resa-parent.hb-resa-deleting td:not(.hb-email-logs-td),
+.hb-resa-child.hb-resa-deleting td.hb-resa-id-column,
+.hb-resa-deleting td {
+	background: #ffd3d4;
+}
+
+.hb-resa-table td {
+	transition: background 0.4s;
+}
+
+.hb-ajaxing.hb-resa-updating {
+	display: inline;
+}
+
+.hb-resa-action-spinner {
+	text-align: center;
+}
+
+.hb-resa-section {
+	margin-bottom: 20px;
+}
+
+.hb-input-edit-resa,
+.hb-textarea-edit-resa,
+.hb-select-edit-resa,
+.hb-to-be-paid-details .button-primary,
+.hb-charge-details .button-primary,
+.hb-refund-details .button-primary {
+	margin-bottom: 5px;
+}
+
+.hb-select-edit-resa {
+	max-width: 400px;
+	width: 100%;
+}
+
+.widefat p {
+	color: #555;
+}
+
+.wp-core-ui .button-primary {
+	margin-bottom: 5px;
+}
+
+.hb-accom-editor {
+	margin: 0 0 10px;
+}
+
+.hb-accom-editor-radio {
+	margin: 5px 0;
+}
+
+#hb-export-resa {
+	display: none;
+	padding: 2px 20px 10px;
+}
+
+#hb-export-resa h4 {
+	margin: 25px 0 5px;
+}
+
+.hb-export-resa-no-accom-choice {
+	display: none;
+}
+
+input.hb-export-resa-date {
+	width: 150px;
+}
+
+#hb-export-resa-download {
+	margin-top: 15px;
+}
+
+.hb-blocked-accom-table .hb-table-head-data,
+.hb-blocked-accom-table .hb-table-data {
+	width: 20%;
+}
+
+.hb-blocked-accom-table .hb-table-head-data-accom,
+.hb-blocked-accom-table .hb-table-data-accom,
+.hb-blocked-accom-table .hb-table-head-data-comment,
+.hb-blocked-accom-table .hb-table-data-comment {
+	width: 25%;
+}
+
+.hb-blocked-accom-table .hb-table-data-action,
+.hb-blocked-accom-table .hb-table-head-data-action {
+	width: 10%;
+}
+
+.hb-blocked-accom-added .hb-table-data {
+	background: #C7F1A6;
+}
+
+.hb-blocked-accom-deleting .hb-table-data {
+	background: #ffd3d4;
+}
+
+#hb-block-accom {
+	display: none;
+}
+
+#hb-block-accom .stuffbox {
+	padding: 0 20px;
+}
+
+.hb-add-blocked-accom-column {
+	float: left;
+	margin-right: 2%;
+	width: 23.5%;
+}
+
+.hb-add-blocked-accom-column-last {
+	margin-right: 0;
+}
+
+.hb-add-blocked-accom-comment {
+	clear: both;
+}
+
+.hb-add-blocked-accom-submit .hb-ajaxing {
+	margin-left: 6px;
+}
+
+.hb-block-accom-title {
+	font-size: 1.1em;
+}
+
+.hb-resa-section-toggle {
+	cursor: pointer;
+	display: table;
+}
+
+.hb-resa-section-toggle .dashicons-arrow-up {
+	display: none;
+}
+
+.hb-resa-customer-resa-link {
+	display: table;
+}
+
+.hb-email-logs-wrapper,
+.hb-sending-email-wrapper,
+.hb-customer-edit-wrapper,
+.hb-open-documents-wrapper {
+	background: #fff;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	margin-bottom: 10px;
+	padding: 5px 10px;
+	position: absolute;
+	z-index: 99;
+}
+
+.hb-email-logs-visible {
+	position: relative;
+}
+
+.hb-email-logs-wrapper {
+	padding: 0;
+	right: 0;
+	width: 300px;
+}
+
+.hb-email-logs {
+	border-collapse: collapse;
+}
+
+.hb-email-logs thead th {
+	border-bottom: 2px solid #e1e1e1;
+	border-top: 0;
+}
+
+.hb-email-logs td {
+	width: 33%;
+}
+
+.hb-sending-email-wrapper h4,
+.hb-customer-edit-wrapper h4 {
+	margin: 5px 0 10px;
+}
+
+.hb-sending-email-wrapper {
+	right: 50px;
+	top: 12px;
+	width: 300px;
+}
+
+.widefat td p.hb-sending-email-label {
+	margin-bottom: 3px;
+}
+
+.hb-sending-email-wrapper select {
+	max-width: 100%;
+}
+
+.hb-delete-attachment-link {
+	cursor: pointer;
+}
+
+.hb-customer-edit-wrapper {
+	right: 10px;
+	top: 10px;
+	width: 250px;
+}
+
+.hb-open-documents-wrapper {
+	right: 50px;
+	top: 12px;
+	width: 200px;
+}
+
+.hb-open-documents-wrapper a {
+	display: block;
+}
+
+.hb-email-logs-wrapper .dashicons-dismiss,
+.hb-open-documents-wrapper .dashicons-dismiss {
+	font-size: 15px;
+	position: absolute;
+	right: 1px;
+	top: 1px;
+	width: 15px;
+}
+
+.hb-resa-filter-id input,
+.hb-resa-filter-alphanum input {
+	position: relative;
+	top: -2px;
+	width: 200px;
+}
+
+.hb-resa-filter-customer input,
+.hb-resa-filter-customer select {
+	position: relative;
+	width: 300px;
+}
+
+.hb-resa-filter-customer input {
+	top: -2px;
+}
+
+.hb-resa-filter-date input.hb-input-date {
+	width: 110px;
+}
+
+.hb-resa-filter-date input.hb-input-date::-ms-clear {
+	display:none;
+}
+
+.hb-filter-clear-date {
+	font-size: 15px;
+	line-height: 30px;
+	margin-left: -23px;
+}
+
+.hb-resa-bulk-action {
+	float: left;
+	margin-right: 6px;
+}
+
+.hb-bulk-action-wrapper .spinner {
+	display: none;
+	margin-left: 3px;
+	vertical-align: middle;
+}
+
+.hb-resa-bulk-action-msg {
+	margin-left: 5px;
+}
+
+.hb-resa-parent-id,
+.hb-previous-price,
+.hb-amount-with-security-bond {
+	border-radius: 4px;
+	color: #fff;
+	font-size: 10px;
+	padding: 2px 4px 3px;
+}
+
+.hb-amount-with-security-bond {
+	background: #9ab582;
+}
+
+.hb-resa-parent-id,
+.hb-previous-price {
+	background: #bbb;
+}
+
+.hb-amount-due {
+	background: #ff6344;
+	border-radius: 3px;
+	color: #fff;
+	display: inline-block;
+	font-weight: bold;
+	padding: 0px 2px;
+}
+
+.hb-discount-wrapper {
+	font-size: 11px;
+}
+
+.hb-discount-edit-wrapper p {
+	margin: 5px 0;
+}
+
+.hb-resa-section-has-toggle #hb-archived-resa {
+	display: none;
+}
+
+.hb-resa-customer-title,
+.hb-archive-year-month-title {
+	font-size: 13px;
+}
+
+.hb-options-editor .hb-options-form {
+	display: block;
+}
+
+.hb-options-editor .hb-options-form .hb-admin-add-resa-section-title {
+	display: none;
+}
+
+.hb-options-editor .hb-options-form input[type=number] {
+	width: 100%;
+}
+
+.hb-resa-parent td:not(.hb-email-logs-td) {
+	background: #f7f7f7;
+}
+
+.hb-resa-child .hb-resa-id-column {
+	background: #f7f7f7;
+	border-right: 1px solid #e1e1e1;
+}
+
+.hb-resa-id-column .dashicons-admin-multisite {
+	display: block;
+}
+
+.hb-resa-alphanum {
+	margin-bottom: 5px;
+}
+
+.hb-input-edit-resa-dates {
+	min-width: 90px;
+}
+
+@media screen and (max-width: 782px) {
+	.hb-resa-table-head-foot {
+		display: none;
+	}
+	.hb-resa-table td {
+		display: block;
+	}
+	.hb-resa-actions-column {
+		border-bottom: 3px solid #e1e1e1;
+	}
+	.hb-resa-actions-column .dashicons {
+		display: inline-block;
+		width: auto;
+	}
+}

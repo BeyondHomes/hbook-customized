@@ -1,0 +1,7 @@
+.hb-purchase-code-not-valid-msg {
+	color: #a00;
+}
+
+input[name="hb-purchase-code"] {
+	margin-bottom: 10px;
+}

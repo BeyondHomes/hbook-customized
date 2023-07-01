@@ -1,0 +1,54 @@
+.hb-ical-table thead td {
+	font-size: 14px;
+}
+
+.hb-ical-table {
+	table-layout: fixed;
+}
+
+.hb-ical-table .button-primary {
+	margin-left: 3px;
+}
+
+.hb-ical-table .button-primary,
+.hb-ical-table .button-secondary {
+	margin-top: 3px;
+}
+
+.hb-ical-notification.updated ul {
+	padding-left: 50px;
+}
+
+.hb-ical-notification.updated li {
+	list-style-type: disc;
+}
+
+.all-icals-export-url-value,
+.ical-export-url-value,
+.ical-export-url-hide,
+.import-ical-form,
+.import-url-form {
+	display: none;
+}
+
+.import-ical-file button {
+	margin-top: 3px;
+}
+
+.ical-edit-calendar {
+	position: relative;
+}
+
+.hb-ical-table .dashicons {
+	position: absolute;
+	right: 0;
+	top: 2px;
+}
+
+.ical-synchro-edit .dashicons {
+	right: 20px;
+}
+
+#hb_ical_description {
+	height: 105px;
+}

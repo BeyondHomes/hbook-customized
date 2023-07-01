@@ -1,0 +1,716 @@
+msgctxt "Search"
+msgid "default_form_title"
+msgstr "Pretražiti"
+
+msgctxt "Check price and availability for the %accom_name"
+msgid "accom_page_form_title"
+msgstr "Provjerite cijenu i dostupnost za %accom_name"
+
+msgctxt "Check-in"
+msgid "check_in"
+msgstr "Dolazak:"
+
+msgctxt "Check-out"
+msgid "check_out"
+msgstr "Odlazak"
+
+msgctxt "Adults:"
+msgid "adults"
+msgstr "Odraslih osoba:"
+
+msgctxt "Children:"
+msgid "children"
+msgstr "Djeca:"
+
+msgctxt "Check-in"
+msgid "chosen_check_in"
+msgstr "Dolazak:"
+
+msgctxt "Check-out:"
+msgid "chosen_check_out"
+msgstr "Odlazak:"
+
+msgctxt "Adults:"
+msgid "chosen_adults"
+msgstr "Odrasli:"
+
+msgctxt "Children:"
+msgid "chosen_children"
+msgstr "Djeca:"
+
+msgctxt "Search"
+msgid "search_button"
+msgstr "Provjerite raspoloživost"
+
+msgctxt "Change search"
+msgid "change_search_button"
+msgstr "Promijenite pretraživanje"
+
+msgctxt "Searching..."
+msgid "searching"
+msgstr "Tražim..."
+
+msgctxt "Please enter a check-in date."
+msgid "no_check_in_date"
+msgstr "Molimo unesite datum dolazka."
+
+msgctxt "Please enter a check-out date."
+msgid "no_check_out_date"
+msgstr "Unesite datum odlazka."
+
+msgctxt "Please enter a check-in date and a check-out date."
+msgid "no_check_in_out_date"
+msgstr "Molimo unesite datum dolazka i datum odlazka."
+
+msgctxt "Please select the number of adults."
+msgid "no_adults"
+msgstr "Odaberite broj odraslih osoba."
+
+msgctxt "Please select the number of children."
+msgid "no_children"
+msgstr "Molimo odaberite broj djece."
+
+msgctxt "Please select the number of adults and the number of children."
+msgid "no_adults_children"
+msgstr "Molimo odaberite broj odraslih i broj djece."
+
+msgctxt "The check-in date is not valid."
+msgid "invalid_check_in_date"
+msgstr "Datum dolazka nije valjan."
+
+msgctxt "The check-out date is not valid."
+msgid "invalid_check_out_date"
+msgstr "Datum odlazka nije važeći."
+
+msgctxt "The check-in date and the check-out date are not valid."
+msgid "invalid_check_in_out_date"
+msgstr "Nevažeći datum dolaska i odlaska"
+
+msgctxt "The check-in date can not be in the past."
+msgid "check_in_date_past"
+msgstr "Datum dolaska je u prošlosti"
+
+msgctxt "The check-in date can not be before the %date."
+msgid "check_in_date_before_date"
+msgstr "Datum dolaska ne može biti prije %date datuma."
+
+msgctxt "The check-out date can not be after the %date."
+msgid "check_out_date_after_date"
+msgstr "Datum odjave ne može biti nakon datuma %date."
+
+msgctxt "The check-out date must be after the check-in date."
+msgid "check_out_before_check_in"
+msgstr "Datum odlaska mora biti nakon datuma odlazka."
+
+msgctxt "Check-in is allowed only on specific days (%check_in_days)."
+msgid "check_in_day_not_allowed"
+msgstr "Dolazak je dopušten samo u određenim danima (%check_in_days)."
+
+msgctxt "Check-in is allowed only on certain days. Please change your check-in date."
+msgid "check_in_day_not_allowed_seasonal"
+msgstr "Boravak je dopušten samo u određenim danima. Promijenite datum dolaska."
+
+msgctxt "Check-out is allowed only on specific days (%check_out_days)."
+msgid "check_out_day_not_allowed"
+msgstr "Datum odlaska na neodobreni dan u tjednu. Dopušteni su: %check_out_days"
+
+msgctxt "Check-out is allowed only on certain days. Please change your check-out date."
+msgid "check_out_day_not_allowed_seasonal"
+msgstr "Odjava je dozvoljena samo u određenim danima. Promijenite datum odjave."
+
+msgctxt "A %nb_nights-nights minimum stay policy applies. Please modify your dates."
+msgid "minimum_stay"
+msgstr "Minimalni boravak je 3 noćenja. Promijenite svoje podatke."
+
+msgctxt "A minimum stay policy applies. Please modify your dates to extend your stay."
+msgid "minimum_stay_seasonal"
+msgstr "Postoji minimalan boravak. Promijenite podatke kako biste produljili svoj boravak."
+
+msgctxt "A %nb_nights-nights maximum stay policy applies. Please modify your dates."
+msgid "maximum_stay"
+msgstr "Postoji maksimalna dužina boravka od %nb_night-nights. Promijenite datume kako biste skratili boravak."
+
+msgctxt "A maximum stay policy applies. Please modify your dates to shorten your stay."
+msgid "maximum_stay_seasonal"
+msgstr "Postoji maksimalna dužina boravka. Promijenite podatke kako biste skratili svoj boravak."
+
+msgctxt "Guests check-in on %check_in_day must check-out on a specific day (%check_out_days)."
+msgid "check_out_day_not_allowed_for_check_in_day"
+msgstr "Gosti koji se prijavljuju %check_in_day moraju provjeriti određeni dan (%check_out_days)."
+
+msgctxt "With this check-in date check-out is allowed only on certain days. Please change your check-in or check-out dates."
+msgid "check_out_day_not_allowed_for_check_in_day_seasonal"
+msgstr "Za ovaj datum dolaska, odlazak je dopušten samo u određenim danima. Promijenite svoje dolazne ili odlazne dane."
+
+msgctxt "A %nb_nights-night minimum stay is required for booking starting on %check_in_day. Please change the departure date."
+msgid "minimum_stay_for_check_in_day"
+msgstr "Za rezervacije od 1. veljače 2017. potrebno je minimalno 12 noćenja. Promijenite datum odlaska."
+
+msgctxt "With this check-in date a minimum stay policy applies."
+msgid "minimum_stay_for_check_in_day_seasonal"
+msgstr "Za ovaj datum dolaska postoji pravilo za trajanje boravka. Odaberite duži boravak."
+
+msgctxt "A %nb_nights-night maximum stay applies for booking starting on %check_in_day. Please shorten your stay."
+msgid "maximum_stay_for_check_in_day"
+msgstr "Apartman možete zauzeti najduže %nb_nights noći. Ovo se odnosi na rezervacije koje počinju na dan %check_in_day. Skratite svoj boravak."
+
+msgctxt "With this check-in date a maximum stay policy applies."
+msgid "maximum_stay_for_check_in_day_seasonal"
+msgstr "Apartman se ne može rezervirati za razdoblje. Skratite svoj boravak."
+
+msgctxt "Unfortunately the %accom_name can not suit %persons_nb persons."
+msgid "accom_can_not_suit_nb_people"
+msgstr "%accom_name ne može smjestiti %persons_nb osoba. Odaberite drugi apartman ili rezervirajte nekoliko apartmana."
+
+msgctxt "Unfortunately we could not find any accommodation that would suit %persons_nb persons."
+msgid "no_accom_can_suit_nb_people"
+msgstr "Nažalost, nismo pronašli nijedan smještaj koji bi odgovaralo %persons_nb osoba."
+
+msgctxt "View all available accommodation for %persons_nb persons."
+msgid "view_accom_for_persons"
+msgstr "Svi dostupni smještaji za %osoba_nb osoba."
+
+msgctxt "Unfortunately the %accom_name can not suit one person only."
+msgid "accom_can_not_suit_one_person"
+msgstr "Nažalost apartman apartman %accom_name nije namijenjen za jednu osobu."
+
+msgctxt "Unfortunately we could not find any accommodation that would suit one person only."
+msgid "no_accom_can_suit_one_person"
+msgstr "Nažalost, nismo mogli pronaći smještaj koji bi odgovarala samo jednoj osobi."
+
+msgctxt "View all available accommodation for one person."
+msgid "view_accom_for_one_person"
+msgstr "Pogledajte sve dostupne smještajne kapacitete za jednu osobu."
+
+msgctxt "Unfortunately we could not find any accommodation for the dates you entered."
+msgid "no_accom_at_chosen_dates"
+msgstr "Nažalost nijedan apartman nije dostupan za odabrano razdoblje. Unesite drugo razdoblje."
+
+msgctxt "The %accom_name is not available at the chosen dates. Please choose another apartment or other period."
+msgid "accom_not_available_at_chosen_dates"
+msgstr "Apartman %accom_name nije dostupna na odabrani datum. Odaberite drugi apartman ili drugi period."
+
+msgctxt "View all available accommodation at the chosen dates."
+msgid "view_accom_at_chosen_date"
+msgstr "Pogledajte sve dostupne apartmane na odabranim datumima."
+
+msgctxt "We have found 1 type of accommodation that suit your needs."
+msgid "one_type_of_accommodation_found"
+msgstr "Pronašli smo smještaj koji odgovara vašim potrebama."
+
+msgctxt "We have found %nb_types types of accommodation that suit your needs."
+msgid "several_types_of_accommodation_found"
+msgstr "Pronašli smo %nb_types apartmana koja odgovaraju vašem zahtjevu."
+
+msgctxt "Select your accommodation"
+msgid "select_accom_title"
+msgstr "Odaberite svoj apartman"
+
+msgctxt "The %accom_name is available at the chosen dates."
+msgid "accom_available_at_chosen_dates"
+msgstr "Apartman %accom_name je dostupan za odabrani period."
+
+msgctxt "price for 1 night"
+msgid "price_for_1_night"
+msgstr "Cijena noćenja"
+
+msgctxt "price for %nb_nights nights"
+msgid "price_for_several_nights"
+msgstr "Cijena za %nb_nights noćenja"
+
+msgctxt "View price breakdown"
+msgid "view_price_breakdown"
+msgstr "Prikaži raspodjelu cijena"
+
+msgctxt "Hide price breakdown"
+msgid "hide_price_breakdown"
+msgstr "Sakrij raspodjelu cijena"
+
+msgctxt "nights"
+msgid "price_breakdown_nights_several"
+msgstr "noćenja"
+
+msgctxt "night"
+msgid "price_breakdown_night_one"
+msgstr "noćenje"
+
+msgctxt "x %nb_nights-night"
+msgid "price_breakdown_multiple_nights"
+msgstr "x %nb_night noćenja"
+
+msgctxt "Accommodation price:"
+msgid "price_breakdown_accom_price"
+msgstr "Cijena smještaj:"
+
+msgctxt "Extra adults (%nb_adults):"
+msgid "price_breakdown_extra_adults_several"
+msgstr "Dodatne odrasle osobe (%nb_adults):"
+
+msgctxt "Extra adult:"
+msgid "price_breakdown_extra_adult_one"
+msgstr "Dodatna odrasla osoba:"
+
+msgctxt "Adults (%nb_adults):"
+msgid "price_breakdown_adults_several"
+msgstr "Odrasli (%nb_adults):"
+
+msgctxt "Adult:"
+msgid "price_breakdown_adult_one"
+msgstr "Odrasli:"
+
+msgctxt "Extra children (%nb_children):"
+msgid "price_breakdown_extra_children_several"
+msgstr "Dodatna djeca (%nb_children):"
+
+msgctxt "Extra child:"
+msgid "price_breakdown_extra_child_one"
+msgstr "Dodatno dijete:"
+
+msgctxt "Children (%nb_children):"
+msgid "price_breakdown_children_several"
+msgstr "Djeca (%nb_children):"
+
+msgctxt "Child:"
+msgid "price_breakdown_child_one"
+msgstr "Dijete:"
+
+msgctxt "From %from_date to %to_date:"
+msgid "price_breakdown_dates"
+msgstr "Od %from_date do %to_date:"
+
+msgctxt "Discount:"
+msgid "price_breakdown_discount"
+msgstr "Popust:"
+
+msgctxt "Price before discount:"
+msgid "price_breakdown_before_discount"
+msgstr "Cijena prije popusta:"
+
+msgctxt "Price after discount:"
+msgid "price_breakdown_after_discount"
+msgstr "Cijena s popustom:"
+
+msgctxt "adults"
+msgid "fee_details_adults_several"
+msgstr "Odrasle osobe"
+
+msgctxt "adult"
+msgid "fee_details_adult_one"
+msgstr "Odrasla osoba"
+
+msgctxt "children"
+msgid "fee_details_children_several"
+msgstr "djeca"
+
+msgctxt "child"
+msgid "fee_details_child_one"
+msgstr "dijete"
+
+msgctxt "Select this accommodation"
+msgid "select_accom_button"
+msgstr "Odaberite ovaj apartman"
+
+msgctxt "Book now!"
+msgid "accom_book_now_button"
+msgstr "Rezervirajte sada"
+
+msgctxt "View this accommodation"
+msgid "view_accom_button"
+msgstr "Pogledajte apartman"
+
+msgctxt "You have selected the %accom_name."
+msgid "selected_accom"
+msgstr "Odabrali ste %accom_name."
+
+msgctxt "Fees:"
+msgid "price_breakdown_fees"
+msgstr "pristojbe:"
+
+msgctxt "Select your options"
+msgid "select_options_title"
+msgstr "Izbor dodatnih usluga:"
+
+msgctxt "Extra services:"
+msgid "chosen_options"
+msgstr "Dodatne usluge:"
+
+msgctxt "(%price%each%max)"
+msgid "price_option"
+msgstr "(%price%each%max)"
+
+msgctxt "(free)"
+msgid "free_option"
+msgstr "(Besplatna dodatna usluga)"
+
+msgctxt " each"
+msgid "each_option"
+msgstr " svaki"
+
+msgctxt " - Maximum: %max_value"
+msgid "max_option"
+msgstr "- Maksimalno: %max_value"
+
+msgctxt "Total options price:"
+msgid "total_options_price"
+msgstr "Ukupni iznos svih dodatnih usluga:"
+
+msgctxt "Enter your details"
+msgid "details_form_title"
+msgstr "Unesite svoje podatke"
+
+msgctxt ""
+msgid "first_name"
+msgstr "Ime:"
+
+msgctxt ""
+msgid "last_name"
+msgstr "Prezime:"
+
+msgctxt ""
+msgid "email"
+msgstr "E-pošta:"
+
+msgctxt ""
+msgid "phone"
+msgstr "Telefon:"
+
+msgctxt ""
+msgid "address_1"
+msgstr "Adresa (linija 1)"
+
+msgctxt ""
+msgid "address_2"
+msgstr "Adresa (linija 2)"
+
+msgctxt ""
+msgid "zip_code"
+msgstr "Poštanski broj:"
+
+msgctxt ""
+msgid "city"
+msgstr "Grad:"
+
+msgctxt ""
+msgid "country"
+msgstr "Država:"
+
+msgctxt "Terms and conditions"
+msgid "terms_and_cond_title"
+msgstr "Uvjeti i odredbe"
+
+msgctxt "I have read and I accept the terms and conditions for this booking."
+msgid "terms_and_cond_text"
+msgstr "Pročitao sam i prihvaćam uvjete i odredbe za ovu rezervaciju."
+
+msgctxt "Please confirm you have read and you accept the terms and conditions by checking the box."
+msgid "terms_and_cond_error"
+msgstr "Potvrdite da ste pročitali i prihvatili uvjete i odredbe označavanjem okvira."
+
+msgctxt ""
+msgid "txt_before_book_now_button"
+msgstr "Rezervirajte sada"
+
+msgctxt "Book now!"
+msgid "book_now_button"
+msgstr "Rezervirajte sada!"
+
+msgctxt "Unfortunately the accommodation you have selected is no longer available. Please select another accommodation or start searching again."
+msgid "accom_no_longer_available"
+msgstr "Odabrani apartman više nije dostupan"
+
+msgctxt "Processing..."
+msgid "processing"
+msgstr "Obrada..."
+
+msgctxt "Reservation summary"
+msgid "summary_title"
+msgstr "Sažetak rezervacije"
+
+msgctxt "Number of nights:"
+msgid "number_of_nights"
+msgstr "Broj noćenja:"
+
+msgctxt "Change"
+msgid "summary_change"
+msgstr "Izmjena"
+
+msgctxt "Thanks for your reservation! We have just sent you a confirmation email at %customer_email with the following details:"
+msgid "thanks_message_1"
+msgstr "Hvala na rezervaciji! Upravo smo vam poslali poruku e-pošte s potvrdom na %customer_email sa sljedećim podacima.:"
+
+msgctxt "The e-mail contains more details for a deposit to be paid."
+msgid "thanks_message_2"
+msgstr "E-mail sadrži detalje za polog koji se plaća."
+
+msgctxt "Accommodation:"
+msgid "summary_accommodation"
+msgstr "Apartman:"
+
+msgctxt "Accommodation price:"
+msgid "summary_accom_price"
+msgstr "Cijena apartmana:"
+
+msgctxt "Options price:"
+msgid "summary_options_price"
+msgstr "Cijena za dodatne ponude:"
+
+msgctxt "Total price:"
+msgid "summary_price"
+msgstr "Ukupan iznos:"
+
+msgctxt "Deposit amount:"
+msgid "summary_deposit"
+msgstr "Iznos pologa:"
+
+msgctxt ""
+msgid "thanks_message_payment_done_1"
+msgstr ""
+
+msgctxt ""
+msgid "thanks_message_payment_done_2"
+msgstr ""
+
+msgctxt "Payment"
+msgid "payment_section_title"
+msgstr "Plaćanje"
+
+msgctxt "Select your payment type:"
+msgid "payment_type"
+msgstr "Odaberite način plaćanja:"
+
+msgctxt "On arrival or offline payment"
+msgid "payment_type_offline"
+msgstr "Pri dolasku ili izvanmrežnom plaćanju"
+
+msgctxt "Leave credit card details (the card will not be charged now)"
+msgid "payment_type_store_credit_card"
+msgstr "Ostavite podace o kreditnom kartice (kartica neće biti sada naplaćuje)"
+
+msgctxt "Pay deposit now"
+msgid "payment_type_deposit"
+msgstr "Polog sada platit"
+
+msgctxt "Pay total price now"
+msgid "payment_type_full"
+msgstr "Ukupnu cijenu sada platit "
+
+msgctxt ""
+msgid "payment_type_explanation_offline"
+msgstr ""
+
+msgctxt ""
+msgid "payment_type_explanation_store_credit_card"
+msgstr ""
+
+msgctxt ""
+msgid "payment_type_explanation_deposit"
+msgstr ""
+
+msgctxt ""
+msgid "payment_type_explanation_full"
+msgstr ""
+
+msgctxt "Select your payment method:"
+msgid "payment_method"
+msgstr "Odaberite način plaćanja:"
+
+msgctxt "PayPal"
+msgid "paypal_payment_method_label"
+msgstr "PayPal"
+
+msgctxt "Click on Book Now to confirm your reservation. You will be redirected to PayPal to complete your payment."
+msgid "paypal_text_before_form"
+msgstr "Kliknite na Rezerviraj sada kako biste potvrdili rezervaciju. Preusmjerit ćete se na PayPal da biste izvršili uplatu."
+
+msgctxt "%accom_name%deposit_txt - %nights_txt (from %check_in_date to %check_out_date) - %adults_txt%children_txt"
+msgid "external_payment_txt_desc"
+msgstr ""
+
+msgctxt " (deposit)"
+msgid "external_payment_txt_deposit"
+msgstr " (polog)"
+
+msgctxt "1 night"
+msgid "external_payment_txt_one_night"
+msgstr "1 noćenje"
+
+msgctxt "%nb_nights nights"
+msgid "external_payment_txt_several_nights"
+msgstr "%nb_nights noćenja"
+
+msgctxt "1 adult"
+msgid "external_payment_txt_one_adult"
+msgstr "1 odrasla osoba"
+
+msgctxt "%nb_adults adults"
+msgid "external_payment_txt_several_adults"
+msgstr "%nb_adults odrasli"
+
+msgctxt " - 1 child"
+msgid "external_payment_txt_one_child"
+msgstr "- 1 dijete"
+
+msgctxt " - %nb_children children"
+msgid "external_payment_txt_several_children"
+msgstr " - %nb_children djeca"
+
+msgctxt "Credit or debit card"
+msgid "stripe_payment_method_label"
+msgstr "Kreditna ili debitna kartica"
+
+msgctxt ""
+msgid "stripe_text_before_form"
+msgstr ""
+
+msgctxt "Card number:"
+msgid "stripe_card_number"
+msgstr "Broj kartice:"
+
+msgctxt "Expiration date:"
+msgid "stripe_expiration"
+msgstr "Datum važenja"
+
+msgctxt "Card Validation Code (CVC or CVV2 or CID):"
+msgid "stripe_cvc"
+msgstr "Kontrolni broj kreditne kartice (CVC ili CVV2 ili CID):"
+
+msgctxt "The card number is not valid."
+msgid "stripe_invalid_card_number"
+msgstr "Nevažeći broj kartice."
+
+msgctxt "The expiration date is not valid."
+msgid "stripe_invalid_expiration"
+msgstr "Nevažeći datum isteka."
+
+msgctxt "Could not process the payment. The card is not valid."
+msgid "stripe_invalid_card"
+msgstr "Plaćanje nije bilo moguće obraditi. Kartica nije valjana."
+
+msgctxt "Could not process the payment (%error_msg)."
+msgid "stripe_processing_error"
+msgstr "Nije moguće obraditi uplatu (%error_msg)."
+
+msgctxt "Required field."
+msgid "required_field"
+msgstr "Obavezno polje."
+
+msgctxt "Invalid email."
+msgid "invalid_email"
+msgstr "Nevažeća e-pošta"
+
+msgctxt "This field can only contain numbers."
+msgid "invalid_number"
+msgstr "Ovo polje može sadržavati samo brojeve."
+
+msgctxt "There was a connection error. Please try again."
+msgid "connection_error"
+msgstr "Došlo je do pogreške s vezom. Pokušajte ponovo."
+
+msgctxt "Your session has timed out. Please start a new booking request."
+msgid "timeout_error"
+msgstr "Vaša sesija je istekla. Molimo započnite novi zahtjev za rezervaciju."
+
+msgctxt "Error: season is not defined for %night."
+msgid "error_season_not_defined"
+msgstr "Pogreška: Sezona nije definirana za %night. Kontaktirajte nas kako bismo ispravili pogrešku."
+
+msgctxt "Error: please add a rate for accommodation named %accom_name and season named %season_name."
+msgid "error_rate_not_defined"
+msgstr "Pogreška: dodajte stopu za smještaj po imenu %accom_name i sezone %season_name."
+
+msgctxt "occupied"
+msgid "legend_occupied"
+msgstr "zauzet"
+
+msgctxt "Past"
+msgid "legend_past"
+msgstr "Prošlost"
+
+msgctxt "Closed"
+msgid "legend_closed"
+msgstr "Zatvoreno"
+
+msgctxt "Available"
+msgid "legend_available"
+msgstr "na raspolaganju"
+
+msgctxt "Before check-in day"
+msgid "legend_before_check_in"
+msgstr "Prije dolaska"
+
+msgctxt "Not available for check-in"
+msgid "legend_no_check_in"
+msgstr "Nije dostupno za dolazak"
+
+msgctxt "Not available for check-out"
+msgid "legend_no_check_out"
+msgstr "Nije dostupno za polazak"
+
+msgctxt "Available for check-in only"
+msgid "legend_check_in_only"
+msgstr "Dostupno samo za dolazak"
+
+msgctxt "Available for check-out only"
+msgid "legend_check_out_only"
+msgstr "Dostupno samo za polazak"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night minimum-stay requirement)"
+msgid "legend_no_check_out_min_stay"
+msgstr "Nije dostupno za polazak (zbog minimalnog boravka od %nb_nights noćenja)"
+
+msgctxt "Not available for check-out (due to the %nb_nights-night maximum-stay requirement)"
+msgid "legend_no_check_out_max_stay"
+msgstr "Nije dostupno za polazak. Možete rezervirati maksimalno %nb_nights dana."
+
+msgctxt "Chosen check-in day"
+msgid "legend_check_in"
+msgstr "Odabrani dan dolaska"
+
+msgctxt "Chosen check-out day"
+msgid "legend_check_out"
+msgstr "Odabrani dan odlaska"
+
+msgctxt "Select a check-in date."
+msgid "legend_select_check_in"
+msgstr "Odaberite datum dolaska."
+
+msgctxt "Select a check-out date."
+msgid "legend_select_check_out"
+msgstr "Odaberite datum odlaska."
+
+msgctxt "From"
+msgid "table_rates_from"
+msgstr "Od"
+
+msgctxt "To"
+msgid "table_rates_to"
+msgstr "Do"
+
+msgctxt "Nights"
+msgid "table_rates_nights"
+msgstr "Noćenje"
+
+msgctxt "Price"
+msgid "table_rates_price"
+msgstr "Cijena"
+
+msgctxt "per night"
+msgid "table_rates_per_night"
+msgstr "po noćenju"
+
+msgctxt "All overnight:"
+msgid "table_rates_all_nights"
+msgstr "Sva noćenja:"
+
+msgctxt "for a %nb_nights night stay"
+msgid "table_rates_for_night_stay"
+msgstr "Za Boravak od %nb_nights noćenja"
+
+msgctxt "Price starting at %price"
+msgid "accom_starting_price"
+msgstr "Cijena od %price"
+
+msgctxt "per night"
+msgid "accom_starting_price_duration_unit"
+msgstr "po noći"
+
